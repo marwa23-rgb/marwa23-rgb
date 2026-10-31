@@ -39,9 +39,7 @@ I work across the end-to-end data analytics lifecycle:
 - KPI development and performance measurement.
 - Interactive dashboard development.
 - Translating findings into actionable recommendations.
-My philosophy:
-
-Understand the Problem → Prepare the Data → Discover Insights → Communicate Findings → Drive Business Impact.
+My philosophy:Understand the Problem → Prepare the Data → Discover Insights → Communicate Findings → Drive Business Impact.
 </details><h2 align="center">📊 MY JOURNEY IN NUMBERS</h2><p align="center">
   <img src="https://img.shields.io/badge/04-Analytics_Projects-8B72BE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/110K%2B-Healthcare_Records-A99ACB?style=for-the-badge"/>
@@ -85,10 +83,7 @@ Data Preparation	Cleaning, Profiling, Validation, ETL
 Business Intelligence	KPI Design, Data Modeling, Dashboarding
 Analytics	EDA, Statistical Analysis, Root Cause Analysis
 Advanced Analytics	Forecasting, Feature Engineering, A/B Testing
-Communication	Data Storytelling, Reporting, Business Recommendations
-
-
-</details><a id="featured-projects"></a>
+Communication	Data Storytelling, Reporting, Business Recommendations</details><a id="featured-projects"></a>
 <h2 align="center">🚀 FEATURED PROJECTS</h2><p align="center">
   <i>Real-world datasets. Business questions. Data-driven solutions.</i>
 </p><h3>🔹 01. Marketing Performance & Growth Analytics</h3><p align="center">
@@ -97,7 +92,6 @@ Communication	Data Storytelling, Reporting, Business Recommendations
   <img src="https://img.shields.io/badge/POWER_BI-DASHBOARDS-F2C811?style=for-the-badge"/>
 </p>
 🎯 The Challenge
-
 Which advertising campaigns, audiences, and interests generate the most efficient conversions?
 
 ⚡ What I Built
@@ -106,17 +100,16 @@ Which advertising campaigns, audiences, and interests generate the most efficien
 - Standardized age groups and interest codes.
 - Calculated CTR, CPC, CPM, conversion rate, and cost per approved conversion.
 - Applied SQL aggregations and window functions.
-- Developed interactive funnel dashboards.<br/>
-📌 Key Findings
-KPI	Result
-Lowest Cost per Approved Conversion	$6.24
-Campaign 1178 Cost per Approved Conversion	$63.83
-Overall CTR	0.018%
-Overall CPC	$1.54
-Male Audience Cost per Approved Conversion	$41
-Female Audience Cost per Approved Conversion	$70
-
-
+- Developed interactive funnel dashboards.
+  
+  📌 Key Findings
+  KPI	Result
+  Lowest Cost per Approved Conversion	$6.24
+  Campaign 1178 Cost per Approved Conversion	$63.83
+  Overall CTR	0.018%
+  Overall CPC	$1.54
+  Male Audience Cost per Approved Conversion	$41
+  Female Audience Cost per Approved Conversion	$70
 💡 Business Impact
 
 Prioritize efficient campaigns and audience segments, and review high-spend, low-conversion segments before reallocating budgets.
@@ -125,7 +118,6 @@ Prioritize efficient campaigns and audience segments, and review high-spend, low
   <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POWER_BI-BUSINESS_INTELLIGENCE-F2C811?style=for-the-badge"/>
 </p>🎯 The Challenge
-
 Understand revenue and profitability across products, categories, customers, regions, and time.
 
 ⚡ What I Built
@@ -134,16 +126,15 @@ Understand revenue and profitability across products, categories, customers, reg
 - Calculated revenue, profit, margin percentage, and average order value.
 - Used CTEs and window functions for rankings, running totals, monthly comparisons, and repeat-customer analysis.
 - Developed a three-page dashboard: Overview, Products, and Customers & Geography.
-- Forecasted monthly sales with seasonality.<br/>
-📌 Key Findings
-KPI	Result
-Total Sales	$2.30M
-Overall Margin	12.5%
-Tables Sub-category Margin	-8.6%
-Margin for Orders with 30%+ Discounts	-37.3%
-Margin for Other Orders	21.8%
-
-
+- Forecasted monthly sales with seasonality.
+  
+  📌 Key Findings
+  KPI	Result
+  Total Sales	$2.30M
+  Overall Margin	12.5%
+  Tables Sub-category Margin	-8.6%
+  Margin for Orders with 30%+ Discounts	-37.3%
+  Margin for Other Orders	21.8%
 💡 Business Impact
 
 Review aggressive discounts, improve product mix, and prioritize retention opportunities in weaker customer segments.
@@ -152,7 +143,6 @@ Review aggressive discounts, improve product mix, and prioritize retention oppor
   <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POWER_BI-DASHBOARDS-F2C811?style=for-the-badge"/>
 </p>🎯 The Challenge
-
 Improve visibility into inventory, supplier performance, shipping costs, and product quality to support replenishment and sourcing decisions.
 
 ⚡ What I Built
@@ -161,15 +151,14 @@ Improve visibility into inventory, supplier performance, shipping costs, and pro
 - Engineered stock coverage, average lead time, shipping cost per unit, and defect rate metrics.
 - Ranked SKUs and suppliers using SQL aggregations and window functions.
 - Compared carriers, transportation modes, and shipping routes.
-- Developed a supply chain performance dashboard.<br/>
-📌 Key Findings
-KPI	Result
-Skincare Share of Units Sold	45%
-Haircare Average Defect Rate	2.48%
-Road Transportation Defect Rate	2.62%
-Air Transportation Defect Rate	1.82%
-
-
+- Developed a supply chain performance dashboard.
+  
+  📌 Key Findings
+  KPI	Result
+  Skincare Share of Units Sold	45%
+  Haircare Average Defect Rate	2.48%
+  Road Transportation Defect Rate	2.62%
+  Air Transportation Defect Rate	1.82%
 💡 Business Impact
 
 Prioritize replenishment for low-stock-cover SKUs, monitor suppliers with higher defect rates, and compare transportation costs and quality performance.
@@ -178,7 +167,6 @@ Prioritize replenishment for low-stock-cover SKUs, monitor suppliers with higher
   <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POWER_BI-VISUALIZATION-F2C811?style=for-the-badge"/>
 </p>🎯 The Challenge
-
 Understand why patients miss appointments and identify segments that could benefit from targeted interventions.
 
 ⚡ What I Built
@@ -187,14 +175,13 @@ Understand why patients miss appointments and identify segments that could benef
 - Engineered waiting-days and age-group fields.
 - Analyzed no-show rates by age, gender, neighborhood, waiting days, SMS reminders, and scholarship.
 - Used SQL window functions to compare and rank segments.
-- Developed interactive dashboards with filters and drill-downs.<br/>
-📌 Key Findings
-KPI	Result
-Overall No-Show Rate	20.2%
-Same-Day Booking No-Show Rate	4.6%
-Booking 31+ Days Ahead No-Show Rate	33.0%
-
-
+- Developed interactive dashboards with filters and drill-downs.
+  
+  📌 Key Findings
+  KPI	Result
+  Overall No-Show Rate	20.2%
+  Same-Day Booking No-Show Rate	4.6%
+  Booking 31+ Days Ahead No-Show Rate	33.0%
 💡 Business Impact
 
 Reduce long booking lead times where possible, introduce targeted follow-ups, and focus outreach on neighborhoods with higher no-show rates.
@@ -211,39 +198,125 @@ Reduce long booking lead times where possible, introduce targeted follow-ups, an
 2024	Machine Learning Engineer Intern	National Bank of Egypt	Jul 2024 – Oct 2024
 2024	Data Analytics Bootcamp Intern	EFE	Aug 2024 – Oct 2024
 2022	Data Analysis Track Intern	ITI	Aug 2022 – Dec 2022
-
-
 <a id="education"></a>
 <h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2><p align="center">
   <img src="https://img.shields.io/badge/01-BACHELOR'S_DEGREE-8B72BE?style=for-the-badge"/>
 </p>
 B.Sc. in Computers & Information Systems — Medical Informatics
-
 🏛️ Zagazig University | 2019 – 2023
 - GPA: 3.76 / 4.00
 - Graduation: Excellent with Honors
 - Graduation Project: 90% — Excellent (A+)
 <p align="center">
   <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge"/>
-</p>AI, Data Science & Cloud Computing Diploma
-
-🚀 Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
+</p>AI, Data Science & Cloud Computing Diploma🚀 Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 <a id="certifications"></a>
 <h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2><p align="center">
-  <img src="https://img.shields.io/badge/GOOGLE-Data_Analytics-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STANFORD-Machine_Learning-8B72BE?style=for-the-badge"/>
-</p>Certification	Organization
-Google Data Analytics Certificate	Coursera
-Machine Learning Specialization	Stanford University
-Deep Learning Specialization	Stanford University
-Managing Big Data with MySQL	Duke University
-Generative AI with Large Language Models	DeepLearning.AI
-HCIA-AI Certification	Huawei
-AI Career Essentials	ALX Africa
-Data Analyst GRIP Internship	The Sparks Foundation
-
-
-<h2 align="center">📈 MY GITHUB ACTIVITY</h2><p align="center"><i>GitHub statistics and activity cards are loaded from external services and may take a few seconds to appear.</i></p><p align="center">
+  <i>Continuous learning. Technical excellence. Data-driven thinking.</i>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/8-Certifications-8B72BE?style=for-the-badge&labelColor=39334A" alt="8 Certifications"/>
+  <img src="https://img.shields.io/badge/DATA-ANALYTICS-A99ACB?style=for-the-badge&labelColor=39334A" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/AI-MACHINE_LEARNING-C4B5E0?style=for-the-badge&labelColor=39334A" alt="AI and Machine Learning"/>
+</p>
+<h3 align="center">📊 Data Analytics & Business Intelligence</h3><table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Google Data Analytics Certificate</h4>
+      <p>
+        <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+          <img src="https://img.shields.io/badge/GOOGLE-Data_Analytics-8B72BE?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics"/>
+        </a>
+      </p>
+      <p>Data analysis, data preparation, visualization, and analytical problem-solving.</p>
+      <sub>Provider: Coursera</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Managing Big Data with MySQL</h4>
+      <p>
+        <a href="https://www.coursera.org/">
+          <img src="https://img.shields.io/badge/DUKE-MySQL_%26_Big_Data-A99ACB?style=flat-square&logo=mysql&logoColor=white" alt="Managing Big Data with MySQL"/>
+        </a>
+      </p>
+      <p>SQL-based data querying, database analysis, and working with large datasets.</p>
+      <sub>Provider: Duke University</sub>
+    </td>
+  </tr>
+</table>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3><table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Machine Learning Specialization</h4>
+      <p>
+        <a href="https://www.coursera.org/specializations/machine-learning-introduction">
+          <img src="https://img.shields.io/badge/STANFORD-Machine_Learning-8B72BE?style=flat-square&logo=stanford&logoColor=white" alt="Machine Learning Specialization"/>
+        </a>
+      </p>
+      <p>Machine learning fundamentals, predictive modeling, and practical AI techniques.</p>
+      <sub>Providers: Stanford University and DeepLearning.AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 Deep Learning Specialization</h4>
+      <p>
+        <a href="https://www.coursera.org/specializations/deep-learning">
+          <img src="https://img.shields.io/badge/DEEP_LEARNING-Deep_Learning_Specialization-A99ACB?style=flat-square" alt="Deep Learning Specialization"/>
+        </a>
+      </p>
+      <p>Neural networks, deep learning architectures, and advanced machine learning concepts.</p>
+      <sub>Provider: DeepLearning.AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✨ Generative AI with Large Language Models</h4>
+      <p>
+        <a href="https://www.coursera.org/learn/generative-ai-with-llms">
+          <img src="https://img.shields.io/badge/DEEPLEARNING.AI-Generative_AI-8B72BE?style=flat-square" alt="Generative AI with Large Language Models"/>
+        </a>
+      </p>
+      <p>Large language models, generative AI fundamentals, and model development concepts.</p>
+      <sub>Provider: DeepLearning.AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ HCIA-AI Certification</h4>
+      <p>
+        <a href="https://e.huawei.com/en/talent/learning">
+          <img src="https://img.shields.io/badge/HUAWEI-HCIA--AI-A99ACB?style=flat-square&logo=huawei&logoColor=white" alt="Huawei HCIA-AI"/>
+        </a>
+      </p>
+      <p>Artificial intelligence concepts and technical foundations.</p>
+      <sub>Provider: Huawei</sub>
+    </td>
+  </tr>
+</table>
+<h3 align="center">🚀 Professional Development & Practical Experience</h3><table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 AI Career Essentials</h4>
+      <p>
+        <a href="https://www.alxafrica.com/">
+          <img src="https://img.shields.io/badge/ALX-AI_Career_Essentials-8B72BE?style=flat-square" alt="AI Career Essentials"/>
+        </a>
+      </p>
+      <p>AI literacy, professional skills, and applying AI concepts to workplace challenges.</p>
+      <sub>Provider: ALX Africa</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analyst GRIP Internship</h4>
+      <p>
+        <a href="https://www.thesparksfoundationsingapore.org/">
+          <img src="https://img.shields.io/badge/SPARKS_FOUNDATION-Data_Analytics-A99ACB?style=flat-square" alt="Data Analyst GRIP Internship"/>
+        </a>
+      </p>
+      <p>Practical data analysis experience and analytical project work.</p>
+      <sub>Provider: The Sparks Foundation</sub>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <b>💜 Learning Today. Building Better Solutions Tomorrow.</b>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
+</p><h2 align="center">📈 MY GITHUB ACTIVITY</h2><p align="center"><i>GitHub statistics and activity cards are loaded from external services and may take a few seconds to appear.</i></p><p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&rank_icon=github"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
 </p><p align="center">
