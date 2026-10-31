@@ -1,5 +1,3 @@
-# Marwa Samy | Data & Business Intelligence
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8B72BE&height=220&section=header&text=MARWA%20SAMY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=62&descColor=F8F7FC" width="100%" />
 </p>
