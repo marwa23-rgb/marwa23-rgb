@@ -1,4 +1,4 @@
-<h3 align="center">Data Analyst | Business Intelligence | AI</h3><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=MARWA%20SAMY&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=60" width="100%"/>
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=8B72BE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Marwa+Samy+%F0%9F%91%8B;Business+Intelligence+%26+Data+Analyst;Turning+Raw+Data+Into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Exploring+Data.+Discovering+Insights.+Driving+Impact." alt="Typing SVG"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20BI-C4B5E0?style=flat-square"/>
   <img src="https://img.shields.io/badge/BASED_ON-Continuous_Learning-A99ACB?style=flat-square"/>
 </p><a id="about-me"></a>
-<h2 align="center">✦ A LITTLE ABOUT ME ✦</h2><h3 align="center">Hey there! I'm Marwa 👋</h3><p align="center">
+<h2 align="center">✦ ABOUT ME ✦</h2><h3 align="center">Hello I'm Marwa 👋</h3><p align="center">
   A passionate <b>Business Intelligence & Data Analyst</b> who loves exploring data, discovering hidden patterns, and transforming complex datasets into meaningful business decisions.
 </p><p align="center">
   🎓 Computers & Information Systems Graduate<br />
@@ -106,7 +106,7 @@ Which advertising campaigns, audiences, and interests generate the most efficien
 - Standardized age groups and interest codes.
 - Calculated CTR, CPC, CPM, conversion rate, and cost per approved conversion.
 - Applied SQL aggregations and window functions.
-- Developed interactive funnel dashboards.
+- Developed interactive funnel dashboards.<br/>
 📌 Key Findings
 KPI	Result
 Lowest Cost per Approved Conversion	$6.24
@@ -134,7 +134,7 @@ Understand revenue and profitability across products, categories, customers, reg
 - Calculated revenue, profit, margin percentage, and average order value.
 - Used CTEs and window functions for rankings, running totals, monthly comparisons, and repeat-customer analysis.
 - Developed a three-page dashboard: Overview, Products, and Customers & Geography.
-- Forecasted monthly sales with seasonality.
+- Forecasted monthly sales with seasonality.<br/>
 📌 Key Findings
 KPI	Result
 Total Sales	$2.30M
@@ -161,7 +161,7 @@ Improve visibility into inventory, supplier performance, shipping costs, and pro
 - Engineered stock coverage, average lead time, shipping cost per unit, and defect rate metrics.
 - Ranked SKUs and suppliers using SQL aggregations and window functions.
 - Compared carriers, transportation modes, and shipping routes.
-- Developed a supply chain performance dashboard.
+- Developed a supply chain performance dashboard.<br/>
 📌 Key Findings
 KPI	Result
 Skincare Share of Units Sold	45%
@@ -187,7 +187,7 @@ Understand why patients miss appointments and identify segments that could benef
 - Engineered waiting-days and age-group fields.
 - Analyzed no-show rates by age, gender, neighborhood, waiting days, SMS reminders, and scholarship.
 - Used SQL window functions to compare and rank segments.
-- Developed interactive dashboards with filters and drill-downs.
+- Developed interactive dashboards with filters and drill-downs.<br/>
 📌 Key Findings
 KPI	Result
 Overall No-Show Rate	20.2%
@@ -221,7 +221,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
 
 🏛️ Zagazig University | 2019 – 2023
 - GPA: 3.76 / 4.00
-- Graduation: Excellent with Honor
+- Graduation: Excellent with Honors
 - Graduation Project: 90% — Excellent (A+)
 <p align="center">
   <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge"/>
