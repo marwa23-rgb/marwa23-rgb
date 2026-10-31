@@ -1,4 +1,3 @@
-<h1 align="center">💜 Marwa Samy</h1>
 <h3 align="center">Data Analyst | Business Intelligence | AI</h3><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=MARWA%20SAMY&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=60" width="100%"/>
 </p><p align="center">
