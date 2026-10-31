@@ -1,24 +1,24 @@
 # Marwa Samy | Data & Business Intelligence
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B132B&height=220&section=header&text=MARWA%20SAMY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=62&descColor=5BC0BE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B72BE&height=220&section=header&text=MARWA%20SAMY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=62&descColor=F8F7FC" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=5BC0BE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Insights;Business+Intelligence+%26+Data+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Exploring+Data.+Discovering+Insights.+Driving+Impact." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=8B72BE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Insights;Business+Intelligence+%26+Data+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Exploring+Data.+Discovering+Insights.+Driving+Impact" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/marwa23-rgb">
-    <img src="https://img.shields.io/badge/GitHub-marwa23--rgb-172A45?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-marwa23--rgb-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/marwasamy">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:marwasamy02001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-5BC0BE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-A99ACB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -35,10 +35,10 @@ My analytical experience covers marketing performance, sales and profitability, 
 **My approach:** Understand the business problem → Prepare the data → Analyze performance → Communicate insights → Recommend action.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Business_Intelligence-1C2541?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CORE-SQL_%26_Python-1C2541?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BI-Power_BI_%26_Tableau-1C2541?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BACKGROUND-AI_%26_ML-1C2541?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Business_Intelligence-8B72BE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CORE-SQL_%26_Python-A99ACB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BI-Power_BI_%26_Tableau-9585BA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BACKGROUND-AI_%26_ML-C4B5E0?style=flat-square"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@ My analytical experience covers marketing performance, sales and profitability, 
 ## `02` — Analytics at a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/4-Featured_Analytics_Case_Studies-0B132B?style=for-the-badge&labelColor=1C2541"/>
-  <img src="https://img.shields.io/badge/110%2C527-Healthcare_Records_Analyzed-0B132B?style=for-the-badge&labelColor=1C2541"/>
-  <img src="https://img.shields.io/badge/9%2C994-Sales_Order_Lines-0B132B?style=for-the-badge&labelColor=1C2541"/>
-  <img src="https://img.shields.io/badge/1%2C143-Marketing_Ads_Analyzed-0B132B?style=for-the-badge&labelColor=1C2541"/>
+  <img src="https://img.shields.io/badge/4-Featured_Analytics_Case_Studies-8B72BE?style=for-the-badge&labelColor=A99ACB"/>
+  <img src="https://img.shields.io/badge/110%2C527-Healthcare_Records_Analyzed-8B72BE?style=for-the-badge&labelColor=A99ACB"/>
+  <img src="https://img.shields.io/badge/9%2C994-Sales_Order_Lines-8B72BE?style=for-the-badge&labelColor=A99ACB"/>
+  <img src="https://img.shields.io/badge/1%2C143-Marketing_Ads_Analyzed-8B72BE?style=for-the-badge&labelColor=A99ACB"/>
 </p>
 
 <sub>Figures represent the datasets and case studies documented in my CV, not live GitHub activity metrics.</sub>
@@ -61,9 +61,9 @@ My analytical experience covers marketing performance, sales and profitability, 
 ### Programming & Data Manipulation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=dark"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=light"/>
+  <img src="https://img.shields.io/badge/Pandas-8B72BE?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-A99ACB?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
 ### Business Intelligence & Visualization
@@ -73,23 +73,23 @@ My analytical experience covers marketing performance, sales and profitability, 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-8B72BE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-A99ACB?style=flat-square"/>
 </p>
 
 ### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-5BC0BE?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-3A506B?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-9585BA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-8B72BE?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-C4B5E0?style=flat-square"/>
 </p>
 
 ### Databases, Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,jupyter,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,jupyter,vscode&theme=light"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
@@ -115,7 +115,7 @@ My analytical experience covers marketing performance, sales and profitability, 
 ### 01 / Marketing Performance & Growth Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Marketing_Analytics-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Marketing_Analytics-8B72BE?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/VISUALIZATION-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
 </p>
@@ -125,6 +125,7 @@ My analytical experience covers marketing performance, sales and profitability, 
 Identify which advertising campaigns, audiences, and interests generate the most efficient conversions.
 
 **What I Did**
+
 - Loaded and analyzed 1,143 ads across 3 campaigns using MySQL.
 - Profiled duplicates, missing values, and zero-spend or zero-click records.
 - Standardized age groups and interest codes.
@@ -135,7 +136,7 @@ Identify which advertising campaigns, audiences, and interests generate the most
 **Key Findings**
 
 | Metric | Finding |
-|---|---:|
+|---|---|
 | Lowest cost per approved conversion | $6.24 |
 | Campaign 1178 cost per approved conversion | $63.83 |
 | Overall CTR | 0.018% |
@@ -150,7 +151,7 @@ Identify which advertising campaigns, audiences, and interests generate the most
 ### 02 / Sales, Customer & Product Profitability Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Retail_&_Sales-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Retail_%26_Sales-8B72BE?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/BI-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
 </p>
@@ -160,6 +161,7 @@ Identify which advertising campaigns, audiences, and interests generate the most
 Understand revenue and profitability across products, categories, customers, regions, and time.
 
 **What I Did**
+
 - Analyzed 9,994 order lines.
 - Prepared SQL analysis views and created margin and discount-band metrics.
 - Calculated revenue, profit, margin percentage, and average order value.
@@ -170,7 +172,7 @@ Understand revenue and profitability across products, categories, customers, reg
 **Key Findings**
 
 | Metric | Finding |
-|---|---:|
+|---|---|
 | Total Sales | $2.30M |
 | Overall Margin | 12.5% |
 | Tables Sub-category Margin | -8.6% |
@@ -184,7 +186,7 @@ Understand revenue and profitability across products, categories, customers, reg
 ### 03 / Supply Chain & Inventory Intelligence
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Supply_Chain-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Supply_Chain-8B72BE?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/BI-Power_BI-F2C811?style=flat-square"/>
 </p>
@@ -194,6 +196,7 @@ Understand revenue and profitability across products, categories, customers, reg
 Improve visibility into inventory, supplier performance, shipping costs, and product quality to support replenishment and sourcing decisions.
 
 **What I Did**
+
 - Prepared SKU-level inventory and supply chain data.
 - Validated duplicates, missing values, and measurement units.
 - Engineered stock coverage, average lead time, shipping cost per unit, and defect rate metrics.
@@ -204,7 +207,7 @@ Improve visibility into inventory, supplier performance, shipping costs, and pro
 **Key Findings**
 
 | Metric | Finding |
-|---|---:|
+|---|---|
 | Skincare share of units sold | 45% |
 | Haircare average defect rate | 2.48% |
 | Road transportation defect rate | 2.62% |
@@ -217,7 +220,7 @@ Improve visibility into inventory, supplier performance, shipping costs, and pro
 ### 04 / Healthcare Appointment No-Show Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Healthcare_Analytics-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Healthcare_Analytics-8B72BE?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/VISUALIZATION-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
 </p>
@@ -227,6 +230,7 @@ Improve visibility into inventory, supplier performance, shipping costs, and pro
 Understand why patients miss appointments and identify segments that could benefit from targeted interventions.
 
 **What I Did**
+
 - Analyzed 110,527 medical appointment records.
 - Validated duplicates, invalid ages, and appointment dates.
 - Engineered waiting-days and age-group fields.
@@ -237,7 +241,7 @@ Understand why patients miss appointments and identify segments that could benef
 **Key Findings**
 
 | Metric | Finding |
-|---|---:|
+|---|---|
 | Overall No-Show Rate | 20.2% |
 | Same-Day Booking No-Show Rate | 4.6% |
 | Booking 31+ Days Ahead No-Show Rate | 33.0% |
@@ -248,7 +252,7 @@ Understand why patients miss appointments and identify segments that could benef
 
 <p align="center">
   <a href="https://github.com/marwa23-rgb?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB_REPOSITORIES-1C2541?style=for-the-badge&logo=github&logoColor=5BC0BE"/>
+    <img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB_REPOSITORIES-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -270,14 +274,16 @@ Understand why patients miss appointments and identify segments that could benef
 
 ## `06` — Education
 
-**B.Sc. in Computers & Information Systems — Medical Informatics**  
+**B.Sc. in Computers & Information Systems — Medical Informatics**
+
 Zagazig University | 2019 – 2023
 
 - GPA: **3.76 / 4.00**
 - Graduation: Excellent with Honor
 - Graduation Project: 90% — Excellent (A+)
 
-**AI, Data Science & Cloud Computing Diploma**  
+**AI, Data Science & Cloud Computing Diploma**
+
 Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 
 ---
@@ -298,29 +304,21 @@ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 ## `08` — GitHub Performance
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE&text_color=EAF4F4&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=0B132B&title_color=5BC0BE&text_color=EAF4F4"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&theme=tokyonight&hide_border=true&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=0B132B&color=EAF4F4&line=5BC0BE&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=F8F7FC&color=39334A&line=8B72BE&point=A99ACB&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## `09` — Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwa23-rgb/marwa23-rgb/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-</p>
-
----
-
-## `10` — Beyond the Data
+## `09` — Beyond the Data
 
 - 🎓 Academic background in Medical Informatics.
 - 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions.
@@ -328,6 +326,7 @@ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 - 🤝 Interested in collaboration, knowledge sharing, and continuous learning.
 
 **Languages**
+
 - Arabic — Native
 - English — Professional Working Proficiency
 
@@ -340,7 +339,7 @@ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:marwasamy02001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-5BC0BE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hello-A99ACB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -349,5 +348,5 @@ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B132B&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B72BE&height=120&section=footer"/>
 </p>
