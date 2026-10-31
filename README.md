@@ -22,10 +22,10 @@
 <h2 align="center">✦ ABOUT ME ✦</h2><h3 align="center">Hello I'm Marwa 👋</h3><p align="center">
   A passionate <b>Business Intelligence & Data Analyst</b> who loves exploring data, discovering hidden patterns, and transforming complex datasets into meaningful business decisions.
 </p><p align="center">
-  🎓 Computers & Information Systems Graduate<br />
-  📊 Business Intelligence & Data Analytics Enthusiast<br />
-  🤖 AI & Machine Learning Background<br />
-  💡 Passionate about solving real-world business problems
+  ✦ Computers & Information Systems Graduate<br />
+  ✦ Business Intelligence & Data Analytics Enthusiast<br />
+  ✦ AI & Machine Learning Background<br />
+  ✦ Passionate about solving real-world business problems
 </p><p align="center">
   <img src="https://img.shields.io/badge/GPA-3.76%2F4.00-8B72BE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GRADUATION-Excellent_with_Honor-A99ACB?style=for-the-badge"/>
@@ -40,7 +40,7 @@ I work across the end-to-end data analytics lifecycle:
 - Interactive dashboard development.
 - Translating findings into actionable recommendations.
 My philosophy:Understand the Problem → Prepare the Data → Discover Insights → Communicate Findings → Drive Business Impact.
-</details><h2 align="center">📊 MY JOURNEY IN NUMBERS</h2><p align="center">
+</details><h2 align="center">✦ MY JOURNEY IN NUMBERS</h2><p align="center">
   <img src="https://img.shields.io/badge/04-Analytics_Projects-8B72BE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/110K%2B-Healthcare_Records-A99ACB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/9%2C994-Sales_Order_Lines-9585BA?style=for-the-badge"/>
@@ -51,12 +51,12 @@ My philosophy:Understand the Problem → Prepare the Data → Discover Insights 
   <img src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square"/>
   <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square"/>
 </p><a id="tech-stack"></a>
-<h2 align="center">🛠️ MY TECH UNIVERSE</h2><h3 align="center">💻 Programming & Data Manipulation</h3><p align="center">
+<h2 align="center">✦ MY TECH UNIVERSE</h2><h3 align="center">💻 Programming & Data Manipulation</h3><p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=light"/>
   <br />
   <img src="https://img.shields.io/badge/Pandas-8B72BE?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-A99ACB?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p><h3 align="center">📈 Business Intelligence & Visualization</h3><p align="center">
+</p><h3 align="center">✦ Business Intelligence & Visualization</h3><p align="center">
   <img src="https://skillicons.dev/icons?i=powerbi&theme=light"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -64,7 +64,7 @@ My philosophy:Understand the Problem → Prepare the Data → Discover Insights 
   <br />
   <img src="https://img.shields.io/badge/Matplotlib-8B72BE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Seaborn-A99ACB?style=flat-square"/>
-</p><h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3><p align="center">
+</p><h3 align="center">✦ Artificial Intelligence & Machine Learning</h3><p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light"/>
   <br />
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
@@ -84,7 +84,7 @@ Business Intelligence	KPI Design, Data Modeling, Dashboarding
 Analytics	EDA, Statistical Analysis, Root Cause Analysis
 Advanced Analytics	Forecasting, Feature Engineering, A/B Testing
 Communication	Data Storytelling, Reporting, Business Recommendations</details><a id="featured-projects"></a>
-<h2 align="center">🚀 FEATURED PROJECTS</h2><p align="center">
+<h2 align="center">✦ FEATURED PROJECTS</h2><p align="center">
   <i>Real-world datasets. Business questions. Data-driven solutions.</i>
 </p><h3>🔹 01. Marketing Performance & Growth Analytics</h3><p align="center">
   <img src="https://img.shields.io/badge/MARKETING-ANALYTICS-8B72BE?style=for-the-badge"/>
@@ -209,7 +209,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
 - Graduation Project: 90% — Excellent (A+)
 <p align="center">
   <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge"/>
-</p>AI, Data Science & Cloud Computing Diploma🚀 Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
+</p>AI, Data Science & Cloud Computing Diploma ✦ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 <a id="certifications"></a>
 <h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2><p align="center">
   <i>Continuous learning. Technical excellence. Data-driven thinking.</i>
@@ -218,10 +218,10 @@ B.Sc. in Computers & Information Systems — Medical Informatics
   <img src="https://img.shields.io/badge/DATA-ANALYTICS-A99ACB?style=for-the-badge&labelColor=39334A" alt="Data Analytics"/>
   <img src="https://img.shields.io/badge/AI-MACHINE_LEARNING-C4B5E0?style=for-the-badge&labelColor=39334A" alt="AI and Machine Learning"/>
 </p>
-<h3 align="center">📊 Data Analytics & Business Intelligence</h3><table width="100%">
+<h3 align="center">✦ Data Analytics & Business Intelligence</h3><table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 Google Data Analytics Certificate</h4>
+      <h4>✦ Google Data Analytics Certificate</h4>
       <p>
         <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
           <img src="https://img.shields.io/badge/GOOGLE-Data_Analytics-8B72BE?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics"/>
@@ -231,7 +231,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
       <sub>Provider: Coursera</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🗄️ Managing Big Data with MySQL</h4>
+      <h4>✦ Managing Big Data with MySQL</h4>
       <p>
         <a href="https://www.coursera.org/">
           <img src="https://img.shields.io/badge/DUKE-MySQL_%26_Big_Data-A99ACB?style=flat-square&logo=mysql&logoColor=white" alt="Managing Big Data with MySQL"/>
@@ -242,7 +242,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
     </td>
   </tr>
 </table>
-<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3><table width="100%">
+<h3 align="center">✦ Artificial Intelligence & Machine Learning</h3><table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 Machine Learning Specialization</h4>
@@ -255,7 +255,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
       <sub>Providers: Stanford University and DeepLearning.AI</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🔬 Deep Learning Specialization</h4>
+      <h4>✦ Deep Learning Specialization</h4>
       <p>
         <a href="https://www.coursera.org/specializations/deep-learning">
           <img src="https://img.shields.io/badge/DEEP_LEARNING-Deep_Learning_Specialization-A99ACB?style=flat-square" alt="Deep Learning Specialization"/>
@@ -288,7 +288,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
     </td>
   </tr>
 </table>
-<h3 align="center">🚀 Professional Development & Practical Experience</h3><table width="100%">
+<h3 align="center">✦ Professional Development & Practical Experience</h3><table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>💼 AI Career Essentials</h4>
@@ -301,7 +301,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
       <sub>Provider: ALX Africa</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Data Analyst GRIP Internship</h4>
+      <h4>✦ Data Analyst GRIP Internship</h4>
       <p>
         <a href="https://www.thesparksfoundationsingapore.org/">
           <img src="https://img.shields.io/badge/SPARKS_FOUNDATION-Data_Analytics-A99ACB?style=flat-square" alt="Data Analyst GRIP Internship"/>
@@ -316,17 +316,17 @@ B.Sc. in Computers & Information Systems — Medical Informatics
   <b>💜 Learning Today. Building Better Solutions Tomorrow.</b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
-</p><h2 align="center">📈 MY GITHUB ACTIVITY</h2><p align="center"><i>GitHub statistics and activity cards are loaded from external services and may take a few seconds to appear.</i></p><p align="center">
+</p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center"><i>GitHub statistics and activity cards are loaded from external services and may take a few seconds to appear.</i></p><p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&rank_icon=github"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
 </p><p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA"/>
 </p><p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=F8F7FC&color=39334A&line=8B72BE&point=A99ACB&area=true&hide_border=true"/>
-</p><h2 align="center">🌷 BEYOND THE DATA</h2>- 🎓 Academic background in Medical Informatics.
-- 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions.
-- 📊 Passionate about turning complex datasets into clear business recommendations.
-- 🤝 Interested in collaboration, knowledge sharing, and continuous learning.
+</p><h2 align="center">🌷 BEYOND THE DATA</h2>- 🎓 Academic background in Medical Informatics<br/>
+- 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions<br/>
+- 📊 Passionate about turning complex datasets into clear business recommendations<br/>
+- 🤝 Interested in collaboration, knowledge sharing, and continuous learning<br/>
 <h3 align="center">🌍 LANGUAGES</h3><p align="center">
   <img src="https://img.shields.io/badge/Arabic-Native-8B72BE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/English-Professional_Proficiency-A99ACB?style=for-the-badge"/>
