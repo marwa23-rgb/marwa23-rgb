@@ -307,24 +307,22 @@ B.Sc. in Computers & Information Systems — Medical Informatics
           <img src="https://img.shields.io/badge/SPARKS_FOUNDATION-Data_Analytics-A99ACB?style=flat-square" alt="Data Analyst GRIP Internship"/>
         </a>
       </p>
-      <p>Practical data analysis experience and analytical project work.</p>
+      <p>Practical data analysis experience and analytical project work</p>
       <sub>Provider: The Sparks Foundation</sub>
     </td>
   </tr>
 </table>
 <p align="center">
-  <b>💜 Learning Today. Building Better Solutions Tomorrow.</b>
+  <b>💜 Learning Today. Building Better Solutions Tomorrow</b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
 </p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center">
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA"/>
-</p><p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=F8F7FC&color=39334A&line=8B72BE&point=A99ACB&area=true&hide_border=true"/>
-</p><h2 align="center">🌷 BEYOND THE DATA</h2>- 🎓 Academic background in Medical Informatics<br/>
-- 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions<br/>
-- 📊 Passionate about turning complex datasets into clear business recommendations<br/>
-- 🤝 Interested in collaboration, knowledge sharing, and continuous learning<br/>
+</p><h2 align="center">🌷 BEYOND THE DATA</h2>🎓 Academic background in Medical Informatics<br/>
+🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions<br/>
+📊 Passionate about turning complex datasets into clear business recommendations<br/>
+🤝 Interested in collaboration, knowledge sharing, and continuous learning<br/>
 <h3 align="center">🌍 LANGUAGES</h3><p align="center">
   <img src="https://img.shields.io/badge/Arabic-Native-8B72BE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/English-Professional_Proficiency-A99ACB?style=for-the-badge"/>
@@ -341,7 +339,7 @@ B.Sc. in Computers & Information Systems — Medical Informatics
     <img src="https://img.shields.io/badge/Email-Contact_Me-A99ACB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p><p align="center">
-  <b>✨ Turning Data Into Insights. Turning Insights Into Impact. ✨</b>
+  <b>✨ Turning Data Into Insights. Turning Insights Into Impact ✨</b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=130&section=footer"/>
 </p>
