@@ -131,7 +131,7 @@ I work across the end-to-end data analytics lifecycle:
 <h3 align="center">☁️ Databases, Cloud & Developer Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,jupyter,vscode&theme=light" alt="Azure, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=light" alt="Azure, Git, GitHub, VS Code"/>
   <br />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
