@@ -190,26 +190,46 @@ Reduce long booking lead times where possible, introduce targeted follow-ups, an
     <img src="https://img.shields.io/badge/EXPLORE-ALL_MY_PROJECTS-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p><a id="experience"></a>
-<h2 align="center">💼 MY PROFESSIONAL JOURNEY</h2>Period	Role	Organization	Dates
-2026	Marketing Data Analyst	AdSamy Marketing Agency	Apr 2026 – Sep 2026
-2025	Remote Learning Consultant	Qudurat Academy	Jul 2025 – Dec 2025
-2025	AI Engineer (Remote)	iSoftLand	Jan 2025 – May 2025
-2024	Remote Learning Consultant	Edutech Labs	Oct 2024 – Dec 2024
-2024	Machine Learning Engineer Intern	National Bank of Egypt	Jul 2024 – Oct 2024
-2024	Data Analytics Bootcamp Intern	EFE	Aug 2024 – Oct 2024
-2022	Data Analysis Track Intern	ITI	Aug 2022 – Dec 2022
+<h2 align="center">💼 MY PROFESSIONAL JOURNEY</h2>
+
+<div align="center">
+
+| 📅 Period | 💼 Role | 🏢 Organization |
+|:---:|:---|:---|
+| **Apr 2026 – Sep 2026** | Marketing Data Analyst | AdSamy Marketing Agency |
+| **Jul 2025 – Dec 2025** | Remote Learning Consultant | Qudurat Academy |
+| **Jan 2025 – May 2025** | AI Engineer (Remote) | iSoftLand |
+| **Oct 2024 – Dec 2024** | Remote Learning Consultant | Edutech Labs |
+| **Jul 2024 – Oct 2024** | Machine Learning Engineer Intern | National Bank of Egypt |
+| **Aug 2024 – Oct 2024** | Data Analytics Bootcamp Intern | EFE |
+| **Aug 2022 – Dec 2022** | Data Analysis Track Intern | ITI |
+
+</div>
+
+<br/>
+
 <a id="education"></a>
-<h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2><p align="center">
-  <img src="https://img.shields.io/badge/01-BACHELOR'S_DEGREE-8B72BE?style=for-the-badge"/>
-</p>
-B.Sc. in Computers & Information Systems — Medical Informatics
-🏛️ Zagazig University | 2019 – 2023
-- GPA: 3.76 / 4.00
-- Graduation: Excellent with Honors
-- Graduation Project: 90% — Excellent (A+)
+<h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge"/>
-</p>AI, Data Science & Cloud Computing Diploma ✦ Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
+  <img src="https://img.shields.io/badge/01-BACHELOR'S_DEGREE-8B72BE?style=for-the-badge" alt="Bachelor's Degree"/>
+</p>
+
+### 🏛️ B.Sc. in Computers & Information Systems — Medical Informatics
+**Zagazig University** &nbsp;|&nbsp; 2019 – 2023
+
+- 🎯 **GPA:** 3.76 / 4.00
+- 🏅 **Graduation Grade:** Excellent with Honors
+- 📘 **Graduation Project:** 90% — Excellent (A+)
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge" alt="Professional Diploma"/>
+</p>
+
+### ☁️ AI, Data Science & Cloud Computing Diploma
+**Digital Egypt Builders Initiative** &nbsp;|&nbsp; Jan 2024 – Oct 2024
 <a id="certifications"></a>
 <h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2><p align="center">
   <i>Continuous learning. Technical excellence. Data-driven thinking.</i>
