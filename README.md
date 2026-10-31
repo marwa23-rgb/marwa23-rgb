@@ -1,123 +1,283 @@
-<div align="center">
-
-# Marwa Samy
+# 👋 Hi, I'm Marwa Samy
 
 ### Business Intelligence & Data Analyst | SQL | Python | Power BI | Tableau | Machine Learning
 
-Turning raw data into KPIs, dashboards and decisions across marketing, retail, supply chain and healthcare.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Marwa%20Samy&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20Into%20Actionable%20Insights&descAlignY=58&descSize=16" width="100%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwasamy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F2C811?style=for-the-badge&logo=googlechrome&logoColor=black)](PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-1D7A8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwasamy02001@gmail.com)
-
-</div>
-
----
-
-## About
-
-Data Analyst with a Business Intelligence focus and a B.Sc. in Computers & Information Systems (Medical Informatics, GPA 3.76/4.00, Excellent with Honor). I work across the full analytics workflow: data profiling, cleaning, SQL transformation, KPI definition, root-cause analysis, dashboard development, forecasting and reporting automation.
-
-I also bring a machine learning and AI background (deep learning for medical imaging, NLP, generative AI), which I apply where it adds value to analytics work.
-
-**Currently:** Marketing Data Analyst experience at AdSamy Marketing Agency, tracking CTR, conversion rate, CAC and ROAS and turning findings into budget and optimization recommendations.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marwasamy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marwasamy02001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-3A506B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/marwa23-rgb">
+    <img src="https://img.shields.io/badge/GitHub-Follow-1C2541?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Technical Skills
+## 👩‍💻 About Me
 
-| Area | Tools & Techniques |
-|---|---|
-| **SQL & Databases** | Joins, CTEs, window functions, aggregations, data modeling, KPI calculations · MySQL, SQL Server, BigQuery |
-| **BI & Visualization** | Power BI (DAX, Power Query), Tableau, Looker Studio, Excel, Matplotlib, Seaborn |
-| **Python & Analysis** | Pandas, NumPy, EDA, data cleaning, statistical analysis, feature engineering, forecasting, A/B testing |
-| **Machine Learning & AI** | Scikit-learn, TensorFlow, CNNs, U-Net, NLP, LLMs, OpenAI API |
-| **Data Engineering & Tools** | ETL, web scraping, Git/GitHub, Jupyter, Google Colab, Microsoft Azure |
-| **Marketing Analytics** | Google Analytics, Meta Ads Manager, Meta Business Manager, Meta Pixel |
+I'm a **Business Intelligence & Data Analyst** with a B.Sc. in Computers & Information Systems (Medical Informatics), graduating with a **3.76/4.00 GPA (Excellent with Honor)**.
 
-![SQL](https://img.shields.io/badge/SQL-0F4C81?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0F4C81?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0F4C81?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0F4C81?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0F4C81?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-1D7A8C?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-1D7A8C?style=flat-square&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1D7A8C?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F4C81?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F4C81?style=flat-square&logo=tensorflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-1D7A8C?style=flat-square&logo=microsoftazure&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-1D7A8C?style=flat-square&logo=googlebigquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0F4C81?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-0F4C81?style=flat-square&logo=jupyter&logoColor=white)
+I specialize in transforming raw data into meaningful business insights through the complete analytics workflow, from data cleaning and SQL transformations to KPI development, exploratory analysis, and interactive dashboard creation.
+
+My experience spans Marketing Analytics, Retail, Sales, Supply Chain, and Healthcare Analytics, with an additional background in Artificial Intelligence, Machine Learning, and NLP.
+
+I'm passionate about solving business problems, uncovering hidden patterns, and supporting data-driven decision-making.
+
+- 📊 Business Intelligence & Data Analytics
+- 🐍 Python & SQL for data analysis and transformation
+- 📈 Power BI & Tableau dashboard development
+- 🎯 KPI design, performance monitoring, and reporting automation
+- 🤖 Machine Learning, NLP, and AI applications
+- 🌍 Based in Cairo, Egypt
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### Business Intelligence & Analytics Case Studies
+### Programming & Data Analysis
 
-**1. Marketing Performance & Growth Analytics** · Facebook Ads dataset · `MySQL` `Power BI / Tableau`
-Which campaigns, audiences and interests drive the most efficient conversions? Analysis of 3 campaigns and 1,143 ads using SQL aggregations and window functions, with a funnel dashboard (impressions, clicks, inquiries, purchases).
-- Campaign 916 had the lowest cost per approved conversion at $6.24, vs. $63.83 for campaign 1178.
-- Male audiences cost $41 per approved conversion vs. $70 for female.
-- [View repository](https://github.com/marwa23-rgb/REPO_NAME_MARKETING)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-**2. Sales, Customer & Product Profitability Analytics** · Superstore dataset · `MySQL` `Power BI / Tableau`
-What drives revenue and profit by product, category, segment, region and time? 9,994 order lines analysed with CTEs and window functions, a 3-page dashboard and seasonal sales forecasting.
-- Overall margin of 12.5% on $2.30M in sales; Tables had the lowest sub-category margin (-8.6%).
-- Orders discounted 30%+ ran at -37.3% margin vs. 21.8% for the rest.
-- [View repository](https://github.com/marwa23-rgb/REPO_NAME_SALES)
+### Business Intelligence & Visualization
 
-**3. Supply Chain & Inventory Intelligence** · Supply chain dataset · `MySQL` `Dashboard`
-Visibility into stock cover, supplier performance, lead times, shipping cost and defect rates to support replenishment and sourcing decisions.
-- Skincare accounted for 45% of units sold; haircare had the highest average defect rate (2.48% vs. 1.92% for cosmetics).
-- [View repository](https://github.com/marwa23-rgb/REPO_NAME_SUPPLY_CHAIN)
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-**4. Healthcare Appointment No-Show Analytics** · 110,527 appointments · `MySQL` `Power BI / Tableau`
-Why do patients miss appointments, and which segments should be targeted?
-- Overall no-show rate of 20.2%; 4.6% for same-day bookings vs. 33.0% when booked 31+ days ahead.
-- [View repository](https://github.com/marwa23-rgb/REPO_NAME_NOSHOW)
+### Databases & Cloud
 
-### Machine Learning, Medical AI & NLP
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
-| Project | Stack | Result (per CV) | Link |
-|---|---|---|---|
-| **Patient Care Cycle for Gastrointestinal Diseases** (graduation project) – hybrid CNN + U-Net for tumor detection in laparoscopy images | Python, TensorFlow, CNN, U-Net | 93.5% tumor-detection accuracy | [Repo](https://github.com/marwa23-rgb/REPO_NAME_GI) |
-| **DoctorNotes AI Helper** – ICD-10 code prediction from clinical notes | Python, NLP, OpenAI API, Pandas | 90% precision in ICD-10 mapping | [Repo](https://github.com/marwa23-rgb/REPO_NAME_DOCTORNOTES) |
-| **Cancer Classification** – deep learning on genomic/clinical data | Python, Neural Networks | 97% classification accuracy | [Repo](https://github.com/marwa23-rgb/REPO_NAME_CANCER) |
+### Machine Learning & Artificial Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-3A506B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-1C2541?style=for-the-badge"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+### Core Competencies
+
+- Data Cleaning & Data Validation
+- Exploratory Data Analysis (EDA)
+- SQL Joins, CTEs & Window Functions
+- Data Modeling & ETL
+- KPI Development & Performance Analysis
+- Dashboard Design & Data Storytelling
+- Statistical Analysis & Forecasting
+- Root Cause Analysis
+- A/B Testing
+- Reporting Automation
 
 ---
 
-## Professional Experience
+## 🚀 Featured Projects
 
-- **Marketing Data Analyst**, AdSamy Marketing Agency – campaign and channel performance reporting (CTR, conversion rate, CAC, ROAS) and optimization recommendations.
-- **AI Engineer (Remote)**, iSoftLand – voice-chatbot solutions and NLP integration.
-- **Machine Learning Engineer Intern**, National Bank of Egypt – generative-AI social-media responder with sentiment analysis.
-- **Data Analysis Track Intern**, Information Technology Institute (ITI) – Python, SQL, Power BI and Tableau.
+### 1. 📊 Marketing Performance & Growth Analytics
 
-## Certifications
+**Tools:** MySQL | SQL | Power BI | Tableau | Excel
 
-Google Data Analytics (Coursera) · Managing Big Data with MySQL (Duke University) · Machine Learning Specialization (Stanford) · Deep Learning Specialization (Stanford) · Generative AI with LLMs (DeepLearning.AI) · HCIA-AI (Huawei) · ALX AI Career Essentials
+**Business Objective:** Identify the most effective advertising campaigns, audiences, and interests to improve conversion efficiency and marketing ROI.
+
+**Key Highlights:**
+- Analyzed 1,143 ads across 3 campaigns.
+- Cleaned and transformed advertising data using MySQL.
+- Calculated CTR, CPC, CPM, conversion rate, and cost per approved conversion.
+- Used SQL aggregations and window functions to compare campaign and audience performance.
+- Developed interactive Power BI/Tableau dashboards.
+
+**Key Findings:**
+- Campaign 916 achieved the lowest cost per approved conversion at **$6.24**.
+- Campaign 1178 recorded a cost per approved conversion of **$63.83**.
+- Overall CTR: **0.018%**.
+- Overall CPC: **$1.54**.
+- Male audience cost per approved conversion: **$41**, compared with **$70** for female audiences.
+
+**Business Impact:** Identified budget optimization opportunities and recommended reallocating spending toward more efficient campaigns and audience segments.
 
 ---
 
-## GitHub Stats
+### 2. 📈 Sales, Customer & Product Profitability Analytics
 
-<div align="center">
+**Tools:** MySQL | SQL | Power BI | Tableau | Python
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F4C81&icon_color=F2C811&text_color=555555)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=00000000&title_color=0F4C81&text_color=555555)
+**Business Objective:** Understand sales and profitability performance across products, categories, customers, regions, and time.
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&hide_border=true&bg_color=ffffff&color=0F4C81&line=1D7A8C&point=F2C811&area=true)
+**Key Highlights:**
+- Analyzed 9,994 order records.
+- Built SQL analysis views and calculated revenue, profit, margin, and average order value.
+- Used CTEs and window functions for product rankings, running totals, and month-over-month analysis.
+- Analyzed discount impact and customer purchasing patterns.
+- Developed a three-page interactive dashboard.
 
-</div>
+**Key Findings:**
+- Total sales: **$2.30M**.
+- Overall profit margin: **12.5%**.
+- Tables recorded the lowest sub-category margin at **-8.6%**.
+- Orders with discounts of 30% or more had a **-37.3% margin**, compared with 21.8% for other orders.
+
+**Business Impact:** Identified unprofitable product categories and recommended discount optimization, product-mix improvements, and customer retention strategies.
 
 ---
 
-<div align="center">
+### 3. 📦 Supply Chain & Inventory Intelligence
 
-Open to Data Analyst, Business Intelligence, Junior Data Scientist and ML/AI roles.
-[Connect on LinkedIn](https://linkedin.com/in/marwasamy)
+**Tools:** MySQL | SQL | Power BI | Python
 
-</div>
+**Business Objective:** Improve visibility into inventory levels, supplier performance, shipping costs, and product quality.
+
+**Key Highlights:**
+- Prepared SKU-level inventory and supply chain data.
+- Engineered stock coverage, average lead time, shipping cost per unit, and supplier defect rate metrics.
+- Used SQL aggregations and window functions to rank suppliers and products.
+- Compared transportation modes, shipping routes, and carriers.
+- Developed an interactive supply chain dashboard.
+
+**Key Findings:**
+- Skincare accounted for **45% of units sold**.
+- Haircare had the highest average defect rate at **2.48%**.
+- Road transportation had the highest defect rate at **2.62%**, while air transportation had the lowest at **1.82%**.
+
+**Business Impact:** Recommended prioritizing low-stock products, monitoring supplier quality, and optimizing transportation costs.
+
+---
+
+### 4. 🏥 Healthcare Appointment No-Show Analytics
+
+**Tools:** MySQL | SQL | Power BI | Tableau | Python
+
+**Business Objective:** Understand the factors influencing missed medical appointments and identify opportunities to improve attendance.
+
+**Key Highlights:**
+- Analyzed **110,527 medical appointment records**.
+- Cleaned and validated appointment data.
+- Engineered waiting-days and age-group features.
+- Investigated no-show rates by age, gender, neighborhood, waiting time, and SMS reminders.
+- Built interactive dashboards with filters and drill-downs.
+
+**Key Findings:**
+- Overall no-show rate: **20.2%**.
+- Same-day bookings had a no-show rate of **4.6%**.
+- Appointments booked 31+ days in advance had a no-show rate of **33.0%**.
+
+**Business Impact:** Recommended shorter booking lead times, targeted patient follow-ups, and neighborhood-level outreach.
+
+---
+
+## 💼 Professional Experience
+
+| Position | Organization | Period |
+|---|---|---|
+| Marketing Data Analyst | AdSamy Marketing Agency | Apr 2026 – Sep 2026 |
+| Remote Learning Consultant | Qudurat Academy | Jul 2025 – Dec 2025 |
+| AI Engineer | iSoftLand | Jan 2025 – May 2025 |
+| Remote Learning Consultant | Edutech Labs | Oct 2024 – Dec 2024 |
+| Machine Learning Engineer Intern | National Bank of Egypt | Jul 2024 – Oct 2024 |
+| Data Analytics Bootcamp Intern | EFE | Aug 2024 – Oct 2024 |
+| Data Analysis Track Intern | ITI | Aug 2022 – Dec 2022 |
+
+---
+
+## 🎓 Education
+
+**AI, Data Science & Cloud Computing Diploma**  
+Digital Egypt Builders Initiative | 2024
+
+**B.Sc. in Computers & Information Systems (Medical Informatics)**  
+Zagazig University | 2019 – 2023
+
+- GPA: **3.76 / 4.00**
+- Graduation: Excellent with Honor
+- Graduation Project Grade: **90% (Excellent, A+)**
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics Certificate – Coursera
+- Machine Learning Specialization – Stanford University
+- Deep Learning Specialization – Stanford University
+- Managing Big Data with MySQL – Duke University
+- Generative AI with Large Language Models – DeepLearning.AI
+- HCIA-AI Certification – Huawei
+- AI Career Essentials – ALX Africa
+- Data Analyst GRIP Internship – The Sparks Foundation
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=FFFFFF&icon_color=5BC0BE&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=FFFFFF&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwa23-rgb&theme=tokyonight&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE&hide_border=true" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=0B132B&color=FFFFFF&line=5BC0BE&point=5BC0BE&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🌐 Languages
+
+- Arabic: Native
+- English: Professional Working Proficiency
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with professionals, exploring data-driven opportunities, and collaborating on analytics projects.
+
+<p align="center">
+  <a href="mailto:marwasamy02001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marwasamy02001%40gmail.com-3A506B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marwasamy">
+    <img src="https://img.shields.io/badge/LinkedIn-Marwa_Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Turning Data Into Insights, and Insights Into Impact. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=100&section=footer"/>
+</p>
