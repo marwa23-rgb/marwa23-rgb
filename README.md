@@ -1,208 +1,266 @@
-# 👋 Hi, I'm Marwa Samy
-
-### Business Intelligence & Data Analyst | SQL | Python | Power BI | Tableau | Machine Learning
+# Marwa Samy | Data & Business Intelligence
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=190&section=header&text=Marwa%20Samy&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20Into%20Actionable%20Insights&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B132B&height=220&section=header&text=MARWA%20SAMY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=62&descColor=5BC0BE" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=5BC0BE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Insights;Business+Intelligence+%26+Data+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Exploring+Data.+Discovering+Insights.+Driving+Impact." alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/marwa23-rgb">
+    <img src="https://img.shields.io/badge/GitHub-marwa23--rgb-172A45?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/marwasamy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:marwasamy02001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-3A506B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/marwa23-rgb">
-    <img src="https://img.shields.io/badge/GitHub-Follow-1C2541?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-5BC0BE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## `01` — Executive Profile
 
-I'm a **Business Intelligence & Data Analyst** with a B.Sc. in Computers & Information Systems (Medical Informatics), graduating with a **3.76/4.00 GPA (Excellent with Honor)**.
+I'm **Marwa Samy**, a Business Intelligence & Data Analyst with a Bachelor's degree in Computers & Information Systems (Medical Informatics), graduating with a **3.76/4.00 GPA — Excellent with Honor**.
 
-I specialize in transforming raw data into meaningful business insights through the complete analytics workflow, from data cleaning and SQL transformations to KPI development, exploratory analysis, and interactive dashboard creation.
+I work across the end-to-end data analytics lifecycle: transforming raw datasets into structured insights, building meaningful KPIs, performing SQL-based analysis, and developing interactive dashboards that support business decisions.
 
-My experience spans Marketing Analytics, Retail, Sales, Supply Chain, and Healthcare Analytics, with an additional background in Artificial Intelligence, Machine Learning, and NLP.
+My analytical experience covers marketing performance, sales and profitability, supply chain operations, and healthcare analytics. I also bring a technical background in Artificial Intelligence, Machine Learning, and Natural Language Processing.
 
-I'm passionate about solving business problems, uncovering hidden patterns, and supporting data-driven decision-making.
+**My approach:** Understand the business problem → Prepare the data → Analyze performance → Communicate insights → Recommend action.
 
-- 📊 Business Intelligence & Data Analytics
-- 🐍 Python & SQL for data analysis and transformation
-- 📈 Power BI & Tableau dashboard development
-- 🎯 KPI design, performance monitoring, and reporting automation
-- 🤖 Machine Learning, NLP, and AI applications
-- 🌍 Based in Cairo, Egypt
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Business_Intelligence-1C2541?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CORE-SQL_%26_Python-1C2541?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BI-Power_BI_%26_Tableau-1C2541?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BACKGROUND-AI_%26_ML-1C2541?style=flat-square"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## `02` — Analytics at a Glance
 
-### Programming & Data Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/4-Featured_Analytics_Case_Studies-0B132B?style=for-the-badge&labelColor=1C2541"/>
+  <img src="https://img.shields.io/badge/110%2C527-Healthcare_Records_Analyzed-0B132B?style=for-the-badge&labelColor=1C2541"/>
+  <img src="https://img.shields.io/badge/9%2C994-Sales_Order_Lines-0B132B?style=for-the-badge&labelColor=1C2541"/>
+  <img src="https://img.shields.io/badge/1%2C143-Marketing_Ads_Analyzed-0B132B?style=for-the-badge&labelColor=1C2541"/>
+</p>
+
+<sub>Figures represent the datasets and case studies documented in my CV, not live GitHub activity metrics.</sub>
+
+---
+
+## `03` — Technical Arsenal
+
+### Programming & Data Manipulation
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=dark"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
 ### Business Intelligence & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
 </p>
 
-### Databases & Cloud
+### AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-5BC0BE?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-3A506B?style=flat-square"/>
 </p>
 
-### Machine Learning & Artificial Intelligence
+### Databases, Cloud & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-3A506B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-1C2541?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,jupyter,vscode&theme=dark"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
 </p>
 
-### Tools & Platforms
+### Core Analytical Competencies
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
-
-### Core Competencies
-
-- Data Cleaning & Data Validation
-- Exploratory Data Analysis (EDA)
-- SQL Joins, CTEs & Window Functions
-- Data Modeling & ETL
-- KPI Development & Performance Analysis
-- Dashboard Design & Data Storytelling
-- Statistical Analysis & Forecasting
-- Root Cause Analysis
-- A/B Testing
-- Reporting Automation
+| Area | Skills |
+|---|---|
+| SQL Analytics | Joins, CTEs, Window Functions, Aggregations |
+| Data Preparation | Cleaning, Profiling, Validation, ETL |
+| Business Intelligence | KPI Design, Data Modeling, Dashboarding |
+| Analytics | EDA, Statistical Analysis, Root Cause Analysis |
+| Advanced Analytics | Forecasting, Feature Engineering, A/B Testing |
+| Communication | Data Storytelling, Reporting, Business Recommendations |
 
 ---
 
-## 🚀 Featured Projects
+## `04` — Featured Projects
 
-### 1. 📊 Marketing Performance & Growth Analytics
+*Four business-focused analytics case studies, from raw data preparation to actionable recommendations.*
 
-**Tools:** MySQL | SQL | Power BI | Tableau | Excel
+### 01 / Marketing Performance & Growth Analytics
 
-**Business Objective:** Identify the most effective advertising campaigns, audiences, and interests to improve conversion efficiency and marketing ROI.
+<p align="center">
+  <img src="https://img.shields.io/badge/DOMAIN-Marketing_Analytics-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VISUALIZATION-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
+</p>
 
-**Key Highlights:**
-- Analyzed 1,143 ads across 3 campaigns.
-- Cleaned and transformed advertising data using MySQL.
+**Business Challenge**
+
+Identify which advertising campaigns, audiences, and interests generate the most efficient conversions.
+
+**What I Did**
+- Loaded and analyzed 1,143 ads across 3 campaigns using MySQL.
+- Profiled duplicates, missing values, and zero-spend or zero-click records.
+- Standardized age groups and interest codes.
 - Calculated CTR, CPC, CPM, conversion rate, and cost per approved conversion.
 - Used SQL aggregations and window functions to compare campaign and audience performance.
-- Developed interactive Power BI/Tableau dashboards.
+- Developed interactive funnel dashboards.
 
-**Key Findings:**
-- Campaign 916 achieved the lowest cost per approved conversion at **$6.24**.
-- Campaign 1178 recorded a cost per approved conversion of **$63.83**.
-- Overall CTR: **0.018%**.
-- Overall CPC: **$1.54**.
-- Male audience cost per approved conversion: **$41**, compared with **$70** for female audiences.
+**Key Findings**
 
-**Business Impact:** Identified budget optimization opportunities and recommended reallocating spending toward more efficient campaigns and audience segments.
+| Metric | Finding |
+|---|---:|
+| Lowest cost per approved conversion | $6.24 |
+| Campaign 1178 cost per approved conversion | $63.83 |
+| Overall CTR | 0.018% |
+| Overall CPC | $1.54 |
+| Male audience cost per approved conversion | $41 |
+| Female audience cost per approved conversion | $70 |
 
----
-
-### 2. 📈 Sales, Customer & Product Profitability Analytics
-
-**Tools:** MySQL | SQL | Power BI | Tableau | Python
-
-**Business Objective:** Understand sales and profitability performance across products, categories, customers, regions, and time.
-
-**Key Highlights:**
-- Analyzed 9,994 order records.
-- Built SQL analysis views and calculated revenue, profit, margin, and average order value.
-- Used CTEs and window functions for product rankings, running totals, and month-over-month analysis.
-- Analyzed discount impact and customer purchasing patterns.
-- Developed a three-page interactive dashboard.
-
-**Key Findings:**
-- Total sales: **$2.30M**.
-- Overall profit margin: **12.5%**.
-- Tables recorded the lowest sub-category margin at **-8.6%**.
-- Orders with discounts of 30% or more had a **-37.3% margin**, compared with 21.8% for other orders.
-
-**Business Impact:** Identified unprofitable product categories and recommended discount optimization, product-mix improvements, and customer retention strategies.
+**Business Recommendation:** Prioritize efficient campaigns and audience segments, and review high-spend, low-conversion segments before reallocating budgets.
 
 ---
 
-### 3. 📦 Supply Chain & Inventory Intelligence
+### 02 / Sales, Customer & Product Profitability Analytics
 
-**Tools:** MySQL | SQL | Power BI | Python
+<p align="center">
+  <img src="https://img.shields.io/badge/DOMAIN-Retail_&_Sales-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BI-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
+</p>
 
-**Business Objective:** Improve visibility into inventory levels, supplier performance, shipping costs, and product quality.
+**Business Challenge**
 
-**Key Highlights:**
+Understand revenue and profitability across products, categories, customers, regions, and time.
+
+**What I Did**
+- Analyzed 9,994 order lines.
+- Prepared SQL analysis views and created margin and discount-band metrics.
+- Calculated revenue, profit, margin percentage, and average order value.
+- Used CTEs and window functions for rankings, running totals, monthly comparisons, and repeat-customer analysis.
+- Developed a three-page dashboard: Overview, Products, and Customers & Geography.
+- Forecasted monthly sales with seasonality.
+
+**Key Findings**
+
+| Metric | Finding |
+|---|---:|
+| Total Sales | $2.30M |
+| Overall Margin | 12.5% |
+| Tables Sub-category Margin | -8.6% |
+| Margin for orders with 30%+ discounts | -37.3% |
+| Margin for other orders | 21.8% |
+
+**Business Recommendation:** Review aggressive discounts, improve product mix, and prioritize retention opportunities in weaker customer segments.
+
+---
+
+### 03 / Supply Chain & Inventory Intelligence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DOMAIN-Supply_Chain-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BI-Power_BI-F2C811?style=flat-square"/>
+</p>
+
+**Business Challenge**
+
+Improve visibility into inventory, supplier performance, shipping costs, and product quality to support replenishment and sourcing decisions.
+
+**What I Did**
 - Prepared SKU-level inventory and supply chain data.
-- Engineered stock coverage, average lead time, shipping cost per unit, and supplier defect rate metrics.
-- Used SQL aggregations and window functions to rank suppliers and products.
-- Compared transportation modes, shipping routes, and carriers.
-- Developed an interactive supply chain dashboard.
+- Validated duplicates, missing values, and measurement units.
+- Engineered stock coverage, average lead time, shipping cost per unit, and defect rate metrics.
+- Ranked SKUs and suppliers using SQL aggregations and window functions.
+- Compared carriers, transportation modes, and shipping routes.
+- Developed a supply chain performance dashboard.
 
-**Key Findings:**
-- Skincare accounted for **45% of units sold**.
-- Haircare had the highest average defect rate at **2.48%**.
-- Road transportation had the highest defect rate at **2.62%**, while air transportation had the lowest at **1.82%**.
+**Key Findings**
 
-**Business Impact:** Recommended prioritizing low-stock products, monitoring supplier quality, and optimizing transportation costs.
+| Metric | Finding |
+|---|---:|
+| Skincare share of units sold | 45% |
+| Haircare average defect rate | 2.48% |
+| Road transportation defect rate | 2.62% |
+| Air transportation defect rate | 1.82% |
 
----
-
-### 4. 🏥 Healthcare Appointment No-Show Analytics
-
-**Tools:** MySQL | SQL | Power BI | Tableau | Python
-
-**Business Objective:** Understand the factors influencing missed medical appointments and identify opportunities to improve attendance.
-
-**Key Highlights:**
-- Analyzed **110,527 medical appointment records**.
-- Cleaned and validated appointment data.
-- Engineered waiting-days and age-group features.
-- Investigated no-show rates by age, gender, neighborhood, waiting time, and SMS reminders.
-- Built interactive dashboards with filters and drill-downs.
-
-**Key Findings:**
-- Overall no-show rate: **20.2%**.
-- Same-day bookings had a no-show rate of **4.6%**.
-- Appointments booked 31+ days in advance had a no-show rate of **33.0%**.
-
-**Business Impact:** Recommended shorter booking lead times, targeted patient follow-ups, and neighborhood-level outreach.
+**Business Recommendation:** Prioritize replenishment for low-stock-cover SKUs, monitor suppliers with higher defect rates, and compare transportation costs and quality performance.
 
 ---
 
-## 💼 Professional Experience
+### 04 / Healthcare Appointment No-Show Analytics
 
-| Position | Organization | Period |
+<p align="center">
+  <img src="https://img.shields.io/badge/DOMAIN-Healthcare_Analytics-172A45?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VISUALIZATION-Power_BI_%7C_Tableau-F2C811?style=flat-square"/>
+</p>
+
+**Business Challenge**
+
+Understand why patients miss appointments and identify segments that could benefit from targeted interventions.
+
+**What I Did**
+- Analyzed 110,527 medical appointment records.
+- Validated duplicates, invalid ages, and appointment dates.
+- Engineered waiting-days and age-group fields.
+- Analyzed no-show rates by age, gender, neighborhood, waiting days, SMS reminders, and scholarship.
+- Used SQL window functions to compare and rank segments.
+- Developed interactive dashboards with filters and drill-downs.
+
+**Key Findings**
+
+| Metric | Finding |
+|---|---:|
+| Overall No-Show Rate | 20.2% |
+| Same-Day Booking No-Show Rate | 4.6% |
+| Booking 31+ Days Ahead No-Show Rate | 33.0% |
+
+**Business Recommendation:** Reduce long booking lead times where possible, introduce targeted follow-ups, and focus outreach on neighborhoods with higher no-show rates.
+
+---
+
+<p align="center">
+  <a href="https://github.com/marwa23-rgb?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB_REPOSITORIES-1C2541?style=for-the-badge&logo=github&logoColor=5BC0BE"/>
+  </a>
+</p>
+
+---
+
+## `05` — Professional Journey
+
+| Role | Organization | Period |
 |---|---|---|
 | Marketing Data Analyst | AdSamy Marketing Agency | Apr 2026 – Sep 2026 |
 | Remote Learning Consultant | Qudurat Academy | Jul 2025 – Dec 2025 |
-| AI Engineer | iSoftLand | Jan 2025 – May 2025 |
+| AI Engineer (Remote) | iSoftLand | Jan 2025 – May 2025 |
 | Remote Learning Consultant | Edutech Labs | Oct 2024 – Dec 2024 |
 | Machine Learning Engineer Intern | National Bank of Egypt | Jul 2024 – Oct 2024 |
 | Data Analytics Bootcamp Intern | EFE | Aug 2024 – Oct 2024 |
@@ -210,74 +268,86 @@ I'm passionate about solving business problems, uncovering hidden patterns, and 
 
 ---
 
-## 🎓 Education
+## `06` — Education
 
-**AI, Data Science & Cloud Computing Diploma**  
-Digital Egypt Builders Initiative | 2024
-
-**B.Sc. in Computers & Information Systems (Medical Informatics)**  
+**B.Sc. in Computers & Information Systems — Medical Informatics**  
 Zagazig University | 2019 – 2023
 
 - GPA: **3.76 / 4.00**
 - Graduation: Excellent with Honor
-- Graduation Project Grade: **90% (Excellent, A+)**
+- Graduation Project: 90% — Excellent (A+)
+
+**AI, Data Science & Cloud Computing Diploma**  
+Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 
 ---
 
-## 📜 Certifications
+## `07` — Certifications & Continuous Learning
 
-- Google Data Analytics Certificate – Coursera
-- Machine Learning Specialization – Stanford University
-- Deep Learning Specialization – Stanford University
-- Managing Big Data with MySQL – Duke University
-- Generative AI with Large Language Models – DeepLearning.AI
-- HCIA-AI Certification – Huawei
-- AI Career Essentials – ALX Africa
-- Data Analyst GRIP Internship – The Sparks Foundation
+- Google Data Analytics Certificate — Coursera
+- Machine Learning Specialization — Stanford University
+- Deep Learning Specialization — Stanford University
+- Managing Big Data with MySQL — Duke University
+- Generative AI with Large Language Models — DeepLearning.AI
+- HCIA-AI Certification — Huawei
+- AI Career Essentials — ALX Africa
+- Data Analyst GRIP Internship — The Sparks Foundation
 
 ---
 
-## 📊 GitHub Statistics
+## `08` — GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=FFFFFF&icon_color=5BC0BE&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=FFFFFF&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE&text_color=EAF4F4&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=0B132B&title_color=5BC0BE&text_color=EAF4F4"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwa23-rgb&theme=tokyonight&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE&hide_border=true" width="70%"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&theme=tokyonight&hide_border=true&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=0B132B&color=FFFFFF&line=5BC0BE&point=5BC0BE&area=true&hide_border=true" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=0B132B&color=EAF4F4&line=5BC0BE&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Languages
+## `09` — Contribution Snake
 
-- Arabic: Native
-- English: Professional Working Proficiency
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwa23-rgb/marwa23-rgb/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## `10` — Beyond the Data
 
-I'm always interested in connecting with professionals, exploring data-driven opportunities, and collaborating on analytics projects.
+- 🎓 Academic background in Medical Informatics.
+- 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions.
+- 📊 Passionate about turning complex datasets into clear business recommendations.
+- 🤝 Interested in collaboration, knowledge sharing, and continuous learning.
+
+**Languages**
+- Arabic — Native
+- English — Professional Working Proficiency
+
+---
+
+## Let's Connect
 
 <p align="center">
-  <a href="mailto:marwasamy02001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marwasamy02001%40gmail.com-3A506B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/marwasamy">
-    <img src="https://img.shields.io/badge/LinkedIn-Marwa_Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marwasamy02001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-5BC0BE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Turning Data Into Insights, and Insights Into Impact. 🚀</b>
+  <i>Turning Data Into Insights. Turning Insights Into Impact.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B132B&height=120&section=footer"/>
 </p>
