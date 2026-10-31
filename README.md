@@ -1,438 +1,464 @@
- <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                 MARWA SAMY — GITHUB README                 ║
-  ║                 Creative Data Portfolio                    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+# 💜 Marwa Samy | Data Analyst & Business Intelligence
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=MARWA%20SAMY&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=15&descAlignY=60" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:6D4AFF,45:9B72CF,100:E8B7E8&text=MARWA%20SAMY&fontColor=FFFFFF&fontSize=65&fontAlignY=42&desc=DATA%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=8B72BE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Marwa+Samy+%F0%9F%91%8B;Business+Intelligence+%26+Data+Analyst;Turning+Raw+Data+Into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Exploring+Data.+Discovering+Insights.+Driving+Impact." alt="Typing SVG"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/marwa23-rgb">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marwasamy">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-A99ACB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marwasamy02001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-9585BA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=900&color=9B72CF&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Real+Impact+%E2%9C%A6;Data+Analyst+%7C+BI+Developer+%7C+AI+Enthusiast;I+Explore.+I+Analyze.+I+Create.;Making+Data+Tell+Stories+That+Matter." alt="Typing SVG"/>
-
-<br/>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-9B72CF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-C9A7EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=9B72CF&label=PROFILE+VISITS"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marwa23-rgb&label=PROFILE%20VIEWS&color=8B72BE&style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20BI-C4B5E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BASED_ON-Continuous_Learning-A99ACB?style=flat-square"/>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">✦ A LITTLE ABOUT ME ✦</h2>
 
-# ✦ THE PERSON BEHIND THE DATA ✦
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
 
-### Hey there! I'm Marwa Samy 👋
+<h3 align="center">Hey there! I'm Marwa 👋</h3>
 
-**Data Analyst • Business Intelligence Enthusiast • AI Explorer**
+<p align="center">
+  A passionate <b>Business Intelligence & Data Analyst</b> who loves exploring data, discovering hidden patterns, and transforming complex datasets into meaningful business decisions.
+</p>
 
-</div>
+<p align="center">
+  🎓 Computers & Information Systems Graduate<br/>
+  📊 Business Intelligence & Data Analytics Enthusiast<br/>
+  🤖 AI & Machine Learning Background<br/>
+  💡 Passionate about solving real-world business problems
+</p>
 
-<img align="right" width="290" src="YOUR_GIF_URL_HERE" alt="Creative data animation"/>
-
-I'm passionate about transforming complex datasets into meaningful insights, interactive visualizations, and data-driven business decisions.
-
-My journey combines **Data Analytics, Business Intelligence, Machine Learning, and Artificial Intelligence** — with a strong focus on solving real-world problems.
-
-I don't just analyze numbers. I look for the story behind them, the patterns others might miss, and the opportunities hidden inside the data.
-
-### ✧ My Data Philosophy
-
-- 🔍 Discover patterns hidden in complex datasets.
-- 📊 Turn business questions into measurable insights.
-- 🧠 Combine analytical thinking with AI-powered solutions.
-- 🎯 Communicate findings in a clear, actionable way.
-- 🚀 Keep learning, experimenting, and building.
+<p align="center">
+  <img src="https://img.shields.io/badge/GPA-3.76%2F4.00-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GRADUATION-Excellent_with_Honor-A99ACB?style=for-the-badge"/>
+</p>
 
 <details>
-<summary><b>✦ A LITTLE MORE ABOUT MY JOURNEY</b></summary>
+<summary><b>✨ More About My Analytical Approach</b></summary>
 
-- 🎓 BSc in Computers and Information Systems — Medical Informatics.
-- 📈 Experience across marketing analytics, sales analysis, supply chain, and healthcare analytics.
-- 🤖 Background in AI, Machine Learning, and Deep Learning.
-- 💡 Interested in the intersection of data, technology, and business strategy.
-- 🌱 Always exploring new tools and ways to make data more impactful.
+I work across the end-to-end data analytics lifecycle:
+
+- Data collection and preparation.
+- Data cleaning and validation.
+- Exploratory Data Analysis (EDA).
+- SQL-based business analysis.
+- KPI development and performance measurement.
+- Interactive dashboard development.
+- Translating findings into actionable recommendations.
+
+**My philosophy:**
+
+Understand the Problem → Prepare the Data → Discover Insights → Communicate Findings → Drive Business Impact.
 
 </details>
 
-<br clear="right"/>
-
 ---
 
-<div align="center">
+<h2 align="center">📊 MY JOURNEY IN NUMBERS</h2>
 
-# ✦ MY IMPACT IN NUMBERS ✦
-
-*Different datasets. Different industries. One goal: better decisions.*
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/PROJECTS-9B72CF?style=flat-square"/>
-<br/>
-<h1>04</h1>
-<b>Analytics Projects</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/HEALTHCARE-BA91DB?style=flat-square"/>
-<br/>
-<h1>110K+</h1>
-<b>Healthcare Records</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/SALES-C9A7EB?style=flat-square"/>
-<br/>
-<h1>9,994</h1>
-<b>Sales Order Lines</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MARKETING-E8B7E8?style=flat-square"/>
-<br/>
-<h1>1,143</h1>
-<b>Ad Records</b>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# ✦ MY TECH UNIVERSE ✦
-
-*The tools I use to turn questions into answers.*
-
-</div>
-
-### 💻 Programming & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,vscode&theme=light"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/04-Analytics_Projects-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/110K%2B-Healthcare_Records-A99ACB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/9%2C994-Sales_Order_Lines-9585BA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1%2C143-Marketing_Ads-C4B5E0?style=for-the-badge"/>
 </p>
 
-### 📊 Business Intelligence & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-9B72CF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-BA91DB?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-C9A7EB?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-8B72BE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-A99ACB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🤖 AI, Machine Learning & Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-BA91DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-C9A7EB?style=for-the-badge"/>
-</p>
-
-### ☁️ Platforms & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=light"/>
-<img src="https://img.shields.io/badge/Jupyter-9B72CF?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-BA91DB?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced_Analytics-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square"/>
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">🛠️ MY TECH UNIVERSE</h2>
 
-# ✦ FEATURED PROJECTS ✦
+<h3 align="center">💻 Programming & Data Manipulation</h3>
 
-### Four industries. Four analytical stories. Real business insights.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=light"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-8B72BE?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-A99ACB?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-</div>
+<h3 align="center">📈 Business Intelligence & Visualization</h3>
 
-<a name="projects"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=light"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Matplotlib-8B72BE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-A99ACB?style=flat-square"/>
+</p>
 
-## 01 — 📣 MARKETING CAMPAIGN INTELLIGENCE
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3>
 
-<img src="https://img.shields.io/badge/MARKETING%20ANALYTICS-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/1%2C143%20AD%20RECORDS-C9A7EB?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-9585BA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-8B72BE?style=flat-square"/>
+</p>
 
-**The challenge:** Understanding campaign performance, conversion efficiency, and the factors influencing advertising costs.
+<h3 align="center">☁️ Databases, Cloud & Developer Tools</h3>
 
-**What I explored**
-- Campaign performance and conversion metrics.
-- Cost per approved conversion.
-- CTR and CPC performance.
-- Gender-based advertising spend.
-- Differences between campaign outcomes.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,git,github,jupyter,vscode&theme=light"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+</p>
 
-**Key discoveries**
+<details>
+<summary><b>🔍 Explore My Core Analytical Competencies</b></summary>
 
-| Metric | Finding |
+| Category | Skills |
+|---|---|
+| SQL Analytics | Joins, CTEs, Window Functions, Aggregations |
+| Data Preparation | Cleaning, Profiling, Validation, ETL |
+| Business Intelligence | KPI Design, Data Modeling, Dashboarding |
+| Analytics | EDA, Statistical Analysis, Root Cause Analysis |
+| Advanced Analytics | Forecasting, Feature Engineering, A/B Testing |
+| Communication | Data Storytelling, Reporting, Business Recommendations |
+
+</details>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<p align="center">
+  <i>Real-world datasets. Business questions. Data-driven solutions.</i>
+</p>
+
+<h3>💜 01. Marketing Performance & Growth Analytics</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MARKETING-ANALYTICS-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER_BI-DASHBOARDS-F2C811?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="240"/>
+</p>
+
+**🎯 The Challenge**
+
+Which advertising campaigns, audiences, and interests generate the most efficient conversions?
+
+**⚡ What I Built**
+
+- Analyzed 1,143 ads across 3 campaigns using MySQL.
+- Profiled duplicates, missing values, and zero-spend or zero-click records.
+- Standardized age groups and interest codes.
+- Calculated CTR, CPC, CPM, conversion rate, and cost per approved conversion.
+- Applied SQL aggregations and window functions.
+- Developed interactive funnel dashboards.
+
+**📌 Key Findings**
+
+| KPI | Result |
 |---|---:|
-| Lowest cost per approved conversion | **$6.24** |
-| Campaign 1178 cost per approved conversion | **$63.83** |
-| CTR | **0.018%** |
-| CPC | **$1.54** |
-| Male audience spend | **$41** |
-| Female audience spend | **$70** |
+| Lowest Cost per Approved Conversion | $6.24 |
+| Campaign 1178 Cost per Approved Conversion | $63.83 |
+| Overall CTR | 0.018% |
+| Overall CPC | $1.54 |
+| Male Audience Cost per Approved Conversion | $41 |
+| Female Audience Cost per Approved Conversion | $70 |
 
-**Business takeaway:** Campaign performance should be evaluated through conversion quality and acquisition cost — not just advertising spend or reach.
+**💡 Business Impact**
+
+Prioritize efficient campaigns and audience segments, and review high-spend, low-conversion segments before reallocating budgets.
 
 ---
 
-## 02 — 💰 SALES PERFORMANCE & PROFITABILITY
+<h3>💜 02. Sales, Customer & Product Profitability Analytics</h3>
 
-<img src="https://img.shields.io/badge/SALES%20INTELLIGENCE-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/9%2C994%20ORDER%20LINES-C9A7EB?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/RETAIL-SALES-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER_BI-BUSINESS_INTELLIGENCE-F2C811?style=for-the-badge"/>
+</p>
 
-**The challenge:** Identifying what drives sales, where margins are being lost, and how discounting affects profitability.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240"/>
+</p>
 
-**What I explored**
-- Revenue and profit performance.
-- Product category profitability.
-- Discount impact on margins.
-- Sales trends and order-level performance.
+**🎯 The Challenge**
 
-**Key discoveries**
+Understand revenue and profitability across products, categories, customers, regions, and time.
 
-| Metric | Finding |
+**⚡ What I Built**
+
+- Analyzed 9,994 order lines.
+- Prepared SQL analysis views and created margin and discount-band metrics.
+- Calculated revenue, profit, margin percentage, and average order value.
+- Used CTEs and window functions for rankings, running totals, monthly comparisons, and repeat-customer analysis.
+- Developed a three-page dashboard: Overview, Products, and Customers & Geography.
+- Forecasted monthly sales with seasonality.
+
+**📌 Key Findings**
+
+| KPI | Result |
 |---|---:|
-| Total Sales | **$2.30M** |
-| Overall Profit Margin | **12.5%** |
-| Tables Category Margin | **-8.6%** |
-| Orders with 30%+ Discount | **-37.3%** |
-| Other Categories Margin | **21.8%** |
+| Total Sales | $2.30M |
+| Overall Margin | 12.5% |
+| Tables Sub-category Margin | -8.6% |
+| Margin for Orders with 30%+ Discounts | -37.3% |
+| Margin for Other Orders | 21.8% |
 
-**Business takeaway:** High sales volume doesn't always mean healthy profitability. Discount strategies and loss-making categories need closer attention.
+**💡 Business Impact**
+
+Review aggressive discounts, improve product mix, and prioritize retention opportunities in weaker customer segments.
 
 ---
 
-## 03 — 📦 SUPPLY CHAIN & QUALITY ANALYSIS
+<h3>💜 03. Supply Chain & Inventory Intelligence</h3>
 
-<img src="https://img.shields.io/badge/SUPPLY%20CHAIN-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUALITY%20INSIGHTS-C9A7EB?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/SUPPLY_CHAIN-ANALYTICS-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER_BI-DASHBOARDS-F2C811?style=for-the-badge"/>
+</p>
 
-**The challenge:** Exploring product distribution, transportation methods, and defect patterns to identify quality improvement opportunities.
+**🎯 The Challenge**
 
-**What I explored**
-- Product category distribution.
-- Defect rates across product types.
-- Transportation-related quality differences.
-- Supply chain performance indicators.
+Improve visibility into inventory, supplier performance, shipping costs, and product quality to support replenishment and sourcing decisions.
 
-**Key discoveries**
+**⚡ What I Built**
 
-| Area | Finding |
+- Prepared SKU-level inventory and supply chain data.
+- Validated duplicates, missing values, and measurement units.
+- Engineered stock coverage, average lead time, shipping cost per unit, and defect rate metrics.
+- Ranked SKUs and suppliers using SQL aggregations and window functions.
+- Compared carriers, transportation modes, and shipping routes.
+- Developed a supply chain performance dashboard.
+
+**📌 Key Findings**
+
+| KPI | Result |
 |---|---:|
-| Skincare share | **45%** |
-| Haircare defect rate | **2.48%** |
-| Road transportation defect rate | **2.62%** |
-| Air transportation defect rate | **1.82%** |
+| Skincare Share of Units Sold | 45% |
+| Haircare Average Defect Rate | 2.48% |
+| Road Transportation Defect Rate | 2.62% |
+| Air Transportation Defect Rate | 1.82% |
 
-**Business takeaway:** Product mix and transportation methods both matter when monitoring quality. Comparing defect rates helps identify where operational improvements may have the greatest value.
+**💡 Business Impact**
+
+Prioritize replenishment for low-stock-cover SKUs, monitor suppliers with higher defect rates, and compare transportation costs and quality performance.
 
 ---
 
-## 04 — 🏥 HEALTHCARE APPOINTMENT ANALYTICS
+<h3>💜 04. Healthcare Appointment No-Show Analytics</h3>
 
-<img src="https://img.shields.io/badge/HEALTHCARE%20ANALYTICS-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/110%2C527%20RECORDS-C9A7EB?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HEALTHCARE-ANALYTICS-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MYSQL-SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER_BI-VISUALIZATION-F2C811?style=for-the-badge"/>
+</p>
 
-**The challenge:** Understanding patient appointment attendance and identifying scheduling patterns associated with missed appointments.
+**🎯 The Challenge**
 
-**What I explored**
-- Overall no-show behavior.
-- Appointment scheduling lead time.
-- Same-day appointment attendance.
-- Patterns that could support better scheduling decisions.
+Understand why patients miss appointments and identify segments that could benefit from targeted interventions.
 
-**Key discoveries**
+**⚡ What I Built**
 
-| Appointment Pattern | No-show Rate |
+- Analyzed 110,527 medical appointment records.
+- Validated duplicates, invalid ages, and appointment dates.
+- Engineered waiting-days and age-group fields.
+- Analyzed no-show rates by age, gender, neighborhood, waiting days, SMS reminders, and scholarship.
+- Used SQL window functions to compare and rank segments.
+- Developed interactive dashboards with filters and drill-downs.
+
+**📌 Key Findings**
+
+| KPI | Result |
 |---|---:|
-| Overall | **20.2%** |
-| Same-day appointments | **4.6%** |
-| Appointments booked 31+ days ahead | **33.0%** |
+| Overall No-Show Rate | 20.2% |
+| Same-Day Booking No-Show Rate | 4.6% |
+| Booking 31+ Days Ahead No-Show Rate | 33.0% |
 
-**Business takeaway:** Appointment lead time is an important factor to investigate when improving attendance. Scheduling and reminder strategies can be designed around the patterns observed.
+**💡 Business Impact**
 
----
-
-<div align="center">
-
-### ✧ MORE THAN NUMBERS — INSIGHTS THAT DRIVE ACTION ✧
-
-</div>
+Reduce long booking lead times where possible, introduce targeted follow-ups, and focus outreach on neighborhoods with higher no-show rates.
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/marwa23-rgb?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-ALL_MY_PROJECTS-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-# ✦ PROFESSIONAL JOURNEY ✦
+---
 
-*Every experience added a new perspective to my data journey.*
+<h2 align="center">💼 MY PROFESSIONAL JOURNEY</h2>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
 
 ```text
-    2026  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          ✦ Marketing Data Analyst
-            AdSamy Marketing Agency
-            Apr 2026 – Sep 2026
+2026 ── Marketing Data Analyst
+         AdSamy Marketing Agency
+         Apr 2026 – Sep 2026
 
-    2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          ✦ Remote Learning Consultant
-            Qudurat Academy
-            Jul 2025 – Dec 2025
+2025 ── Remote Learning Consultant
+         Qudurat Academy
+         Jul 2025 – Dec 2025
 
-          ✦ AI Engineer — Remote
-            iSoftLand
-            Jan 2025 – May 2025
+2025 ── AI Engineer (Remote)
+         iSoftLand
+         Jan 2025 – May 2025
 
-    2024  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          ✦ Remote Learning Consultant
-            Edutech Labs
-            Oct 2024 – Dec 2024
+2024 ── Remote Learning Consultant
+         Edutech Labs
+         Oct 2024 – Dec 2024
 
-          ✦ ML Engineer Intern
-            National Bank of Egypt
-            Jul 2024 – Oct 2024
+2024 ── Machine Learning Engineer Intern
+         National Bank of Egypt
+         Jul 2024 – Oct 2024
 
-          ✦ Data Analytics Bootcamp Intern
-            EFE
-            Aug 2024 – Oct 2024
+2024 ── Data Analytics Bootcamp Intern
+         EFE
+         Aug 2024 – Oct 2024
 
-    2022  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          ✦ Data Analysis Track Intern
-            ITI
-            Aug 2022 – Dec 2022
+2022 ── Data Analysis Track Intern
+         ITI
+         Aug 2022 – Dec 2022
 ```
 
 ---
 
-<div align="center">
+<h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2>
 
-# ✦ EDUCATION & ACADEMIC EXCELLENCE ✦
+<p align="center">
+  <img src="https://img.shields.io/badge/01-BACHELOR'S_DEGREE-8B72BE?style=for-the-badge"/>
+</p>
 
-</div>
+**B.Sc. in Computers & Information Systems — Medical Informatics**
 
-### 🎓 BSc — Computers and Information Systems
-
-**Medical Informatics | Zagazig University**
-
-`2019 – 2023`
+🏛️ Zagazig University | 2019 – 2023
 
 - GPA: **3.76 / 4.00**
-- Overall Grade: **Excellent with Honor**
-- Graduation Project: **90% — A+**
+- Graduation: Excellent with Honor
+- Graduation Project: 90% — Excellent (A+)
 
-### 🚀 AI & Data Science Diploma
+<p align="center">
+  <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge"/>
+</p>
 
-**Digital Egypt Builders Initiative**
+**AI, Data Science & Cloud Computing Diploma**
 
-`January 2024 – October 2024`
-
-- Artificial Intelligence
-- Data Science
-- Cloud Computing
+🚀 Digital Egypt Builders Initiative | Jan 2024 – Oct 2024
 
 ---
 
-<div align="center">
+<h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2>
 
-# ✦ CERTIFICATIONS & CONTINUOUS LEARNING ✦
-
-*Learning never stops.*
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/GOOGLE-Data_Analytics-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STANFORD-Machine_Learning-8B72BE?style=for-the-badge"/>
+</p>
 
 | Certification | Organization |
 |---|---|
-| Google Data Analytics Professional Certificate | Google |
-| Machine Learning | Stanford University |
-| Deep Learning | Stanford University |
-| MySQL & Big Data | Duke University |
-| Generative AI | DeepLearning.AI |
-| HCIA-AI | Huawei |
-| AI Career Essentials | ALX |
-| GRIP Internship | The Sparks Foundation |
+| Google Data Analytics Certificate | Coursera |
+| Machine Learning Specialization | Stanford University |
+| Deep Learning Specialization | Stanford University |
+| Managing Big Data with MySQL | Duke University |
+| Generative AI with Large Language Models | DeepLearning.AI |
+| HCIA-AI Certification | Huawei |
+| AI Career Essentials | ALX Africa |
+| Data Analyst GRIP Internship | The Sparks Foundation |
 
 ---
 
-<div align="center">
+<h2 align="center">📈 MY GITHUB ACTIVITY</h2>
 
-# ✦ MY GITHUB SPACE ✦
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
+</p>
 
-*Building, learning, and pushing forward.*
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA"/>
+</p>
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=F8F7FC&ring=8B72BE&fire=C9A7EB&currStreakLabel=8B72BE&sideLabels=39334A&dates=777777"/>
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=F8F7FC&color=8B72BE&line=A99ACB&point=6D4AFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=F8F7FC&color=39334A&line=8B72BE&point=A99ACB&area=true&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🌷 BEYOND THE DATA</h2>
 
-# ✦ BEYOND THE DATA ✦
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="170"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=2500&pause=800&color=9B72CF&center=true&vCenter=true&width=650&lines=Curious+Mind.+Analytical+Thinking.;Creative+Problem+Solver.;Always+Learning+Something+New." />
+- 🎓 Academic background in Medical Informatics.
+- 🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions.
+- 📊 Passionate about turning complex datasets into clear business recommendations.
+- 🤝 Interested in collaboration, knowledge sharing, and continuous learning.
 
-### 🌍 Languages
+<h3 align="center">🌍 LANGUAGES</h3>
 
-<img src="https://img.shields.io/badge/Arabic-Native-9B72CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-Professional%20Working%20Proficiency-C9A7EB?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-8B72BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Professional_Proficiency-A99ACB?style=for-the-badge"/>
+</p>
 
-<br/><br/>
+---
 
-# ✦ LET'S CREATE SOMETHING MEANINGFUL ✦
+<h2 align="center">💌 LET'S CONNECT</h2>
 
-**Have a project, an opportunity, or an interesting data challenge?**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B72BE&center=true&vCenter=true&width=550&lines=Have+a+project+in+mind%3F;Let's+turn+ideas+into+insights!;I'm+always+open+to+collaboration."/>
+</p>
 
-I'd love to connect and explore what we can build together.
+<p align="center">
+  <a href="https://github.com/marwa23-rgb">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-8B72BE?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marwasamy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marwasamy02001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-A99ACB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <b>✨ Turning Data Into Insights. Turning Insights Into Impact. ✨</b>
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL%20ME-9B72CF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,50:9B72CF,100:E8B7E8&height=130&section=footer"/>
-
-<sub>✦ Designed with curiosity, powered by data, and built by Marwa Samy ✦</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=130&section=footer"/>
+</p>
