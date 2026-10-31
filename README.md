@@ -316,10 +316,8 @@ B.Sc. in Computers & Information Systems — Medical Informatics
   <b>💜 Learning Today. Building Better Solutions Tomorrow.</b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
-</p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center"><i>GitHub statistics and activity cards are loaded from external services and may take a few seconds to appear.</i></p><p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marwa23-rgb&show_icons=true&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&icon_color=A99ACB&text_color=39334A&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwa23-rgb&layout=compact&hide_border=true&bg_color=F8F7FC&title_color=8B72BE&text_color=39334A"/>
-</p><p align="center">
+</p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center">
+<p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA"/>
 </p><p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwa23-rgb&bg_color=F8F7FC&color=39334A&line=8B72BE&point=A99ACB&area=true&hide_border=true"/>
