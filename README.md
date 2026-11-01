@@ -372,9 +372,9 @@ Largest weekly death increase	French Guiana — 50%
 <table>
   <thead>
     <tr>
-      <th>📅 Period</th>
-      <th>💼 Role</th>
-      <th>🏢 Organization</th>
+      <th>Period</th>
+      <th>Role</th>
+      <th>Organization</th>
     </tr>
   </thead>
   <tbody>
@@ -429,10 +429,10 @@ Largest weekly death increase	French Guiana — 50%
 <table>
   <thead>
     <tr>
-      <th>🎓 Qualification</th>
-      <th>🏛️ Institution</th>
-      <th>📅 Period</th>
-      <th>📊 Academic Achievement</th>
+      <th>Qualification</th>
+      <th>Institution</th>
+      <th>Period</th>
+      <th>Academic Achievement</th>
     </tr>
   </thead>
   <tbody>
