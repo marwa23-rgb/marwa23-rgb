@@ -364,14 +364,60 @@ Largest weekly death increase	French Guiana — 50%
     </td>
   </tr>
 </table><a id="experience"></a>
-<h2 align="center">💼 MY PROFESSIONAL JOURNEY</h2><div align="center">📅 Period	💼 Role	🏢 Organization
-Apr 2026 – Sep 2026	Marketing Data Analyst	AdSamy Marketing Agency
-Jul 2025 – Dec 2025	Remote Learning Consultant	Qudurat Academy
-Jan 2025 – May 2025	AI Engineer (Remote)	iSoftLand
-Oct 2024 – Dec 2024	Remote Learning Consultant	Edutech Labs
-Jul 2024 – Oct 2024	Machine Learning Engineer Intern	National Bank of Egypt
-Aug 2024 – Oct 2024	Data Analytics Bootcamp Intern	EFE
-Aug 2022 – Dec 2022	Data Analysis Track Intern	ITI
+
+<h2 align="center">💼 MY PROFESSIONAL JOURNEY</h2>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>📅 Period</th>
+      <th>💼 Role</th>
+      <th>🏢 Organization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Apr 2026 – Sep 2026</td>
+      <td>Marketing Data Analyst</td>
+      <td>AdSamy Marketing Agency</td>
+    </tr>
+    <tr>
+      <td>Jul 2025 – Dec 2025</td>
+      <td>Remote Learning Consultant</td>
+      <td>Qudurat Academy</td>
+    </tr>
+    <tr>
+      <td>Jan 2025 – May 2025</td>
+      <td>AI Engineer (Remote)</td>
+      <td>iSoftLand</td>
+    </tr>
+    <tr>
+      <td>Oct 2024 – Dec 2024</td>
+      <td>Remote Learning Consultant</td>
+      <td>Edutech Labs</td>
+    </tr>
+    <tr>
+      <td>Jul 2024 – Oct 2024</td>
+      <td>Machine Learning Engineer Intern</td>
+      <td>National Bank of Egypt</td>
+    </tr>
+    <tr>
+      <td>Aug 2024 – Oct 2024</td>
+      <td>Data Analytics Bootcamp Intern</td>
+      <td>EFE</td>
+    </tr>
+    <tr>
+      <td>Aug 2022 – Dec 2022</td>
+      <td>Data Analysis Track Intern</td>
+      <td>ITI</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 
 </div><a id="education"></a>
