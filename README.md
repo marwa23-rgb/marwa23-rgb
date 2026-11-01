@@ -421,18 +421,48 @@ Largest weekly death increase	French Guiana — 50%
 
 
 </div><a id="education"></a>
-<h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2><p align="center">
-  <img src="https://img.shields.io/badge/01-BACHELOR'S_DEGREE-8B72BE?style=for-the-badge" alt="Bachelor's Degree"/>
-</p>🏛️ B.Sc. in Computers & Information Systems — Medical Informatics
-Zagazig University  |  2019 – 2023
-- 🎯 GPA: 3.76 / 4.00
-- 🏅 Graduation Grade: Excellent with Honors
-- 📘 Graduation Project: 90% — Excellent (A+)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/02-PROFESSIONAL_DIPLOMA-A99ACB?style=for-the-badge" alt="Professional Diploma"/>
-</p>☁️ AI, Data Science & Cloud Computing Diploma
-Digital Egypt Builders Initiative  |  Jan 2024 – Oct 2024
+<h2 align="center">🎓 EDUCATION & ACADEMIC BACKGROUND</h2>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>🎓 Qualification</th>
+      <th>🏛️ Institution</th>
+      <th>📅 Period</th>
+      <th>📊 Academic Achievement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>B.Sc. in Computers & Information Systems</strong><br/>
+        Medical Informatics
+      </td>
+      <td>Zagazig University</td>
+      <td>2019 – 2023</td>
+      <td>
+        GPA: <strong>3.76 / 4.00</strong><br/>
+        Graduation Grade: Excellent with Honors<br/>
+        Graduation Project: 90% — Excellent (A+)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>AI, Data Science & Cloud Computing Diploma</strong><br/>
+        Professional Diploma
+      </td>
+      <td>Digital Egypt Builders Initiative (DEBI)</td>
+      <td>Jan 2024 – Oct 2024</td>
+      <td>AI, Data Science & Cloud Computing</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 <a id="certifications"></a>
 <h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2><p align="center">
   <i>Continuous learning. Technical excellence. Data-driven thinking.</i>
