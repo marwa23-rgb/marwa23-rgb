@@ -562,7 +562,7 @@ Largest weekly death increase	French Guiana — 50%
     </td>
   </tr>
 </table><p align="center">
-  <b>💜 Learning Today. Building Better Solutions Tomorrow.</b>
+  <b></b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
 </p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center">
