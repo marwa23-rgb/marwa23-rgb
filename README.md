@@ -565,8 +565,7 @@ Largest weekly death increase	French Guiana — 50%
   <b></b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
-</p><h2 align="center">✦ MY GITHUB ACTIVITY</h2><p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=marwa23-rgb&hide_border=true&background=F8F7FC&ring=8B72BE&fire=A99ACB&currStreakLabel=8B72BE&sideLabels=39334A&dates=9585BA" alt="GitHub streak stats"/>
+</p>
 </p><h2 align="center">🌷 BEYOND THE DATA</h2><p align="center">
   🎓 Academic background in Medical Informatics<br/>
   🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions<br/>
