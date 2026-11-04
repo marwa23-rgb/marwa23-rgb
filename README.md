@@ -563,10 +563,8 @@ Largest weekly death increase	French Guiana — 50%
   </tr>
 </table><p align="center">
   <b></b>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer" width="65%" alt="Section divider"/>
 </p>
-</p><h2 align="center">🌷 BEYOND THE DATA</h2><p align="center">
+</p><h2 align="center">BEYOND THE DATA</h2><p align="center">
   🎓 Academic background in Medical Informatics<br/>
   🌐 Interested in Business Intelligence, Data Analytics, and AI-driven solutions<br/>
   📊 Passionate about turning complex datasets into clear business recommendations<br/>
